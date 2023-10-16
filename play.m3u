@@ -1,0 +1,15 @@
+#EXTM3U url-tvg = “https://raw.githubusercontent.com/pes4arg/EPG1/master/epg1.xml” Источник: https://gogosmart.pro/es/texnologii/iptv/epg.html
+#EXTINF:-1 tvg-id="[64] DAZN 1.ES" tvg-name="ES| DAZN 1 FHD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/dazn1.png" group-title="ES| DAZN",ES| DAZN 1 FHD
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55482
+#EXTINF:-1 tvg-id="[64] DAZN 1.ES" tvg-name="ES| DAZN 1 SD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/dazn1.png" group-title="ES| DAZN",ES| DAZN 1 SD
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55483
+#EXTINF:-1 tvg-id="[65] DAZN 2.ES" tvg-name="ES| DAZN 2 FHD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/dazn2.png" group-title="ES| DAZN",ES| DAZN 2 FHD
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/82270
+#EXTINF:-1 tvg-id="[65] DAZN 2.ES" tvg-name="ES| DAZN 2 SD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/dazn2.png" group-title="ES| DAZN",ES| DAZN 2 SD
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55557
+#EXTINF:-1 tvg-id="[196] DAZN 3.ES" tvg-name="ES| DAZN 3 FHD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/dazn3.png" group-title="ES| DAZN",ES| DAZN 3 FHD
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55558
+#EXTINF:-1 tvg-id="[197] DAZN 4.ES" tvg-name="ES| DAZN 4 FHD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/dazn4.png" group-title="ES| DAZN",ES| DAZN 4 FHD
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55561
+#EXTINF:-1 tvg-id="[197] DAZN 4.ES" tvg-name="ES| DAZN 4 SD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/dazn4.png" group-title="ES| DAZN",ES| DAZN 4 SD
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55562
