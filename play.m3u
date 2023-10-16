@@ -1,4 +1,4 @@
-#EXTM3U url-tvg = “https://raw.githubusercontent.com/pes4arg/EPG1/master/epg1.xml”
+#EXTM3U url-tvg=“https://raw.githubusercontent.com/pes4arg/EPG1/master/epg1.xml”
 #EXTINF:-1 tvg-id="[64] DAZN 1.ES" tvg-name="ES| DAZN 1 FHD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/dazn1.png" group-title="ES| DAZN",ES| DAZN 1 FHD
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55482
 #EXTINF:-1 tvg-id="[64] DAZN 1.ES" tvg-name="ES| DAZN 1 SD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/dazn1.png" group-title="ES| DAZN",ES| DAZN 1 SD
