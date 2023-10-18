@@ -13,3 +13,9 @@ http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55558
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55561
 #EXTINF:-1 tvg-id="[197] DAZN 4.ES" tvg-name="ES| DAZN 4 SD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/dazn4.png" group-title="ES| DAZN",ES| DAZN 4 SD
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55562
+#EXTINF:-1 tvg-id="[04] Cuatro.ES" tvg-name="ES| CUATRO FHD" url-tvg=“https://raw.githubusercontent.com/pes4arg/EPG1/master/epg1.xml” group-title="ES| ESPAÑA",ES| CUATRO FHD
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55425
+#EXTINF:-1 tvg-id="[04] Cuatro.ES" tvg-name="ES| CUATRO SD" url-tvg=“https://raw.githubusercontent.com/pes4arg/EPG1/master/epg1.xml” group-title="ES| ESPAÑA",ES| CUATRO SD
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55426
+#EXTINF:-1 tvg-id="[69] GOL PLAY.ES" tvg-name="ES| GOL PLAY SD" url-tvg=“https://raw.githubusercontent.com/pes4arg/EPG1/master/epg1.xml” group-title="ES| DEPORTES",ES| GOL PLAY SD
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55550
