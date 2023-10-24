@@ -29,7 +29,7 @@ http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55568
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55569
 #EXTINF:-1 tvg-id="MLigaCampeones.es" tvg-name="ES| M+ LIGA DE CAMPEONES SD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistarligadecampeones.png"
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55533
-#EXTINF:-1 tvg-id="LigaDeCampeones.es" tvg-name="ES| M+ LIGA DE CAMPEONES FHD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistarligadecampeones.png" 
+#EXTINF:-1 tvg-id="MLigaCampeones.es" tvg-name="ES| M+ LIGA DE CAMPEONES FHD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistarligadecampeones.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55577
 #EXTINF:-1 tvg-id="LigaDeCampeones2.es" tvg-name="ES| M+ LIGA DE CAMPEONES 2 SD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistarligadecampeones.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55578
@@ -207,53 +207,53 @@ http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56622
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/136740
 #EXTINF:-1 tvg-id="SkySportcalcio.it" tvg-name="IT| SKY SPORT CALCIO SD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56623
-#EXTINF:-1 tvg-id="" tvg-name="IT| SKY CALCIO 1 FULL HD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
+#EXTINF:-1 tvg-id="calcio251.it" tvg-name="IT| SKY CALCIO 1 FULL HD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56650
-#EXTINF:-1 tvg-id="" tvg-name="IT| SKY CALCIO 1 HD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
+#EXTINF:-1 tvg-id="calcio251.it" tvg-name="IT| SKY CALCIO 1 HD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56651
-#EXTINF:-1 tvg-id="" tvg-name="IT|  SKY CALCIO 1 HEVC" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
+#EXTINF:-1 tvg-id="calcio251.it" tvg-name="IT|  SKY CALCIO 1 HEVC" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/136734
-#EXTINF:-1 tvg-id="" tvg-name="IT| SKY CALCIO 1 SD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
+#EXTINF:-1 tvg-id="calcio251.it" tvg-name="IT| SKY CALCIO 1 SD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56652
-#EXTINF:-1 tvg-id="" tvg-name="IT| SKY CALCIO 2 FULL HD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
+#EXTINF:-1 tvg-id="calcio252.it" tvg-name="IT| SKY CALCIO 2 FULL HD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56653
-#EXTINF:-1 tvg-id="" tvg-name="IT| SKY CALCIO 2 HD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
+#EXTINF:-1 tvg-id="calcio252.it" tvg-name="IT| SKY CALCIO 2 HD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56654
-#EXTINF:-1 tvg-id="" tvg-name="IT|  SKY CALCIO 2 HEVC" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
+#EXTINF:-1 tvg-id="calcio252.it" tvg-name="IT|  SKY CALCIO 2 HEVC" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/136735
-#EXTINF:-1 tvg-id="" tvg-name="IT| SKY CALCIO 2 SD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
+#EXTINF:-1 tvg-id="calcio252.it" tvg-name="IT| SKY CALCIO 2 SD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56655
-#EXTINF:-1 tvg-id="" tvg-name="IT| SKY CALCIO 3 FULL HD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
+#EXTINF:-1 tvg-id="calcio253.it" tvg-name="IT| SKY CALCIO 3 FULL HD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56656
-#EXTINF:-1 tvg-id="" tvg-name="IT| SKY CALCIO 3 HD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
+#EXTINF:-1 tvg-id="calcio253.it" tvg-name="IT| SKY CALCIO 3 HD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56657
-#EXTINF:-1 tvg-id="" tvg-name="IT|  SKY CALCIO 3 HEVC" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
+#EXTINF:-1 tvg-id="calcio253.it" tvg-name="IT|  SKY CALCIO 3 HEVC" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/136736
-#EXTINF:-1 tvg-id="" tvg-name="IT| SKY CALCIO 3 SD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
+#EXTINF:-1 tvg-id="calcio253.it" tvg-name="IT| SKY CALCIO 3 SD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56658
-#EXTINF:-1 tvg-id="" tvg-name="IT| SKY CALCIO 4 FULL HD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
+#EXTINF:-1 tvg-id="calcio254.it" tvg-name="IT| SKY CALCIO 4 FULL HD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56659
-#EXTINF:-1 tvg-id="" tvg-name="IT| SKY CALCIO 4 HD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
+#EXTINF:-1 tvg-id="calcio254.it" tvg-name="IT| SKY CALCIO 4 HD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56660
-#EXTINF:-1 tvg-id="" tvg-name="IT|  SKY CALCIO 4 HEVC" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
+#EXTINF:-1 tvg-id="calcio254.it" tvg-name="IT|  SKY CALCIO 4 HEVC" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/136737
-#EXTINF:-1 tvg-id="" tvg-name="IT| SKY CALCIO 4 SD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
+#EXTINF:-1 tvg-id="calcio254.it" tvg-name="IT| SKY CALCIO 4 SD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56661
-#EXTINF:-1 tvg-id="" tvg-name="IT| SKY CALCIO 5 FULL HD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
+#EXTINF:-1 tvg-id="calcio255.it" tvg-name="IT| SKY CALCIO 5 FULL HD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56662
-#EXTINF:-1 tvg-id="" tvg-name="IT| SKY CALCIO 5 HD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
+#EXTINF:-1 tvg-id="calcio255.it" tvg-name="IT| SKY CALCIO 5 HD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56663
-#EXTINF:-1 tvg-id="" tvg-name="IT|  SKY CALCIO 5 HEVC" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
+#EXTINF:-1 tvg-id="calcio255.it" tvg-name="IT|  SKY CALCIO 5 HEVC" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/136738
-#EXTINF:-1 tvg-id="" tvg-name="IT| SKY CALCIO 6 FULL HD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
+#EXTINF:-1 tvg-id="calcio255.it" tvg-name="IT| SKY CALCIO 6 FULL HD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56664
-#EXTINF:-1 tvg-id="" tvg-name="IT| SKY CALCIO 6 HD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
+#EXTINF:-1 tvg-id="calcio256.it" tvg-name="IT| SKY CALCIO 6 HD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56665
-#EXTINF:-1 tvg-id="" tvg-name="IT|  SKY CALCIO 6 HEVC" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
+#EXTINF:-1 tvg-id="calcio256.it" tvg-name="IT|  SKY CALCIO 6 HEVC" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/136739
-#EXTINF:-1 tvg-id="" tvg-name="IT| SKY CALCIO 7 FULL HD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
+#EXTINF:-1 tvg-id="calcio257.it" tvg-name="IT| SKY CALCIO 7 FULL HD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56666
-#EXTINF:-1 tvg-id="" tvg-name="IT| SKY CALCIO 7 HD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
+#EXTINF:-1 tvg-id="calcio257.it" tvg-name="IT| SKY CALCIO 7 HD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56667
 #EXTINF:-1 tvg-id="" tvg-name="=IT= DAZN =IT=" tvg-logo="http://covers.dragons-ott.com/PICON/entrepicon.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56668
@@ -357,7 +357,7 @@ http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/461083
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/461167
 #EXTINF:-1 tvg-id="SportTVplus.pt" tvg-name="PT| SPORT TV + HD" tvg-logo="http://covers.dragons-ott.com/PICON/PORTUGAL/sporttvplus.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/461168
-#EXTINF:-1 tvg-id="SportTV4K.pt" tvg-name="PT| SPORT TV +" tvg-logo="http://covers.dragons-ott.com/PICON/PORTUGAL/sporttvplus.png" 
+#EXTINF:-1 tvg-id="SportTVplus.pt" tvg-name="PT| SPORT TV +" tvg-logo="http://covers.dragons-ott.com/PICON/PORTUGAL/sporttvplus.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/57176
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT| SPORT TV 1" tvg-logo="http://covers.dragons-ott.com/PICON/PORTUGAL/sporttv1.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/461173
@@ -457,19 +457,19 @@ http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/177336
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/461202
 #EXTINF:-1 tvg-id="" tvg-name="=ES= TREX =ES=" tvg-logo="http://covers.dragons-ott.com/PICON/entrepicon.png" 
 http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/813294
-#EXTINF:-1 tvg-id="MLaLiga.es" tvg-name="ES| M. LALIGA HD" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN-HICHAM/Movistar-LaLiga.png" 
+#EXTINF:-1 tvg-id="M.LaLiga.es" tvg-name="ES| M. LALIGA HD" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN-HICHAM/Movistar-LaLiga.png" 
 http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107564
-#EXTINF:-1 tvg-id="LaLigaTVBar.es" tvg-name="ES| LALIGATV BAR HD" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN-HICHAM/LaLiga-TV-Bar.png" 
+#EXTINF:-1 tvg-id="M.LaLiga.es" tvg-name="ES| LALIGATV BAR HD" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN-HICHAM/LaLiga-TV-Bar.png" 
 http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107591
 #EXTINF:-1 tvg-id="M.LaLiga1.es" tvg-name="ES| M. LALIGA 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN-HICHAM/Movistar-LaLiga-1.png" 
 http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107567
-#EXTINF:-1 tvg-id="MLaLiga2.es" tvg-name="ES| M. LALIGA 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN-HICHAM/Movistar-LaLiga-2.png" 
+#EXTINF:-1 tvg-id="M.LaLiga2.es" tvg-name="ES| M. LALIGA 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN-HICHAM/Movistar-LaLiga-2.png" 
 http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107566
 #EXTINF:-1 tvg-id="Vamos.es" tvg-name="ES| #VAMOS HD" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN-HICHAM/VAMOS.png" 
 http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107634
 #EXTINF:-1 tvg-id="MovistarDeportes.es" tvg-name="ES| M. DEPORTES HD" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN-HICHAM/M-DEPORTES.png" 
 http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107577
-#EXTINF:-1 tvg-id="LigaDeCampeones.es" tvg-name="ES| M.LCAMPEONES HD" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN-HICHAM/Movistar-Liga-de-Campeones.png" 
+#EXTINF:-1 tvg-id="MLigaCampeones.es" tvg-name="ES| M.LCAMPEONES HD" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN-HICHAM/Movistar-Liga-de-Campeones.png" 
 http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107550
 #EXTINF:-1 tvg-id="DaznLaLiga.es" tvg-name="ES| DAZN LALIGA SD" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN-HICHAM/DAZN-LALIGA.png" 
 http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/986641
@@ -509,7 +509,7 @@ http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107540
 http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107645
 #EXTINF:-1 tvg-id="Canal11.pt" tvg-name="PT| CANAL 11 HD" tvg-logo="http://logo.protv.cc/piconsnew/canal11hd.png" 
 http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107524
-#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="PT| SPORT TV + HD" tvg-logo="http://logo.protv.cc/piconsnew/sporttvplus.png" 
+#EXTINF:-1 tvg-id="SportTVplus.pt" tvg-name="PT| SPORT TV + HD" tvg-logo="http://logo.protv.cc/piconsnew/sporttvplus.png" 
 http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107437
 #EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="PT| SPORT TV 1 HD" tvg-logo="http://logo.protv.cc/piconsnew/sporttv1.png" 
 http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107436
@@ -539,7 +539,7 @@ http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107492
 http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/122486
 #EXTINF:-1 tvg-id="ElevenSports5.pt" tvg-name="PT| ELEVEN SPORTS 5" tvg-logo="http://logo.protv.cc/piconsnew/elevensports5.png" 
 http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107491
-#EXTINF:-1 tvg-id="BenficaTV1.pt" tvg-name="PT| BTV 1 HD" tvg-logo="http://logo.protv.cc/piconsnew/btv1.png" 
+#EXTINF:-1 tvg-id="BTV1.pt" tvg-name="PT| BTV 1 HD" tvg-logo="http://logo.protv.cc/piconsnew/btv1.png" 
 http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107511
 #EXTINF:-1 tvg-id="" tvg-name="##### lati #####" tvg-logo="http://go4.pw/EUROPE/FRANCE/flag_france.png"
 http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/1174
@@ -609,9 +609,15 @@ http://bigo12.xyz:80/D5970788A475/592526134081/197716
 http://bigo12.xyz:80/D5970788A475/592526134081/197719
 #EXTINF:-1 tvg-id="tntsports.ar" tvg-name="ARG - TNT SPORTS HD ᵛᶦᵖ" tvg-logo="http://go4.pw/LATINO/ARGENTINA/TNT.png" 
 http://bigo12.xyz:80/D5970788A475/592526134081/197733
-#EXTINF:-1 tvg-id="foxsports.ar" tvg-name="ARG - ESPN PREMIUM ◉" tvg-logo="http://go4.pw/LATINO/ARGENTINA/FOXSPOTSPREMUIM.png" 
-http://bigo12.xyz:80/D5970788A475/592526134081/30758
 #EXTINF:-1 tvg-id="americatelevision.pe" tvg-name="PER - AMERICA ᵛᶦᵖ" tvg-logo="http://go4.pw/LATINO/PERU/AMERICANTV.png" 
 http://bigo12.xyz:80/D5970788A475/592526134081/187630
 #EXTINF:-1 tvg-id="frecuencialatina.pe" tvg-name="PER - LATINA HD ᵛᶦᵖ ◉" tvg-logo="http://go4.pw/LATINO/PERU/LATINA.png" 
 http://bigo12.xyz:80/D5970788A475/592526134081/187628
+#EXTINF:-1 tvg-id="espnpremium.ar" tvg-name="ARG - ESPN PREMIUM ◉" tvg-logo="http://go4.pw/LATINO/ARGENTINA/FOXSPOTSPREMUIM.png" 
+http://bigo12.xyz:80/D5970788A475/592526134081/30758
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="SP - CUATRO HD ◉" tvg-logo="http://go4.pw/EUROPE/SPAIN/CUATROHD-1.png" 
+http://bigo12.xyz:80/D5970788A475/592526134081/21363
+#EXTINF:-1 tvg-id="winsports.co" tvg-name="CO - Winsports ᵛᶦᵖ ◉ " tvg-logo="http://go4.pw/LATINO/COLOMBIA/WinSports.png" group-title="AM | LATINO",CO - Winsports ᵛᶦᵖ ◉ 
+http://bigo12.xyz:80/D5970788A475/592526134081/190259
+#EXTINF:-1 tvg-id="winsportsplus.co" tvg-name="CO - Winsports Plus ᵛᶦᵖ ◉ " tvg-logo="http://go4.pw/LATINO/COLOMBIA/WinSportsPlus.png" group-title="AM | LATINO",CO - Winsports Plus ᵛᶦᵖ ◉ 
+http://bigo12.xyz:80/D5970788A475/592526134081/190260
