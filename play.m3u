@@ -1,1782 +1,617 @@
 #EXTM3U
-#EXTINF:-1,=ES= DEPORTES FOXX (SOLO EVENTOS) =ES=
+#EXTINF:-1 tvg-id="" tvg-name="=ES= FOXX =ES=" tvg-logo="http://covers.dragons-ott.com/PICON/entrepicon.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55526
-#EXTINF:-1,ES| DAZN 1 FHD
+#EXTINF:-1 tvg-id="DAZN1.es" tvg-name="ES| DAZN 1 FHD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/dazn2.png"
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55482
-#EXTINF:-1,ES| DAZN 1 SD
+#EXTINF:-1 tvg-id="DAZN1.es" tvg-name="ES| DAZN 1 SD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/dazn2.png"
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55483
-#EXTINF:-1,ES| DAZN 2 FHD
+#EXTINF:-1 tvg-id="DAZN2.es" tvg-name="ES| DAZN 2 FHD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/dazn2.png"
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/82270
-#EXTINF:-1,ES| DAZN 2 SD
+#EXTINF:-1 tvg-id="DAZN2.es" tvg-name="ES| DAZN 2 SD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/dazn2.png"
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55557
-#EXTINF:-1,ES| DAZN 3 FHD
+#EXTINF:-1 tvg-id="DAZN3.es" tvg-name="ES| DAZN 3 FHD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/dazn3.png"
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55558
-#EXTINF:-1,ES| DAZN 4 FHD
+#EXTINF:-1 tvg-id="DAZN4.es" tvg-name="ES| DAZN 4 FHD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/dazn4.png"
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55561
-#EXTINF:-1,ES| DAZN 4 SD
+#EXTINF:-1 tvg-id="DAZN4.es" tvg-name="ES| DAZN 4 SD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/dazn4.png"
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55562
-#EXTINF:-1,=ES= DEPORTES FOXX =ES=
-#EXTINF:-1,ES| M+ LIGA DE CAMPEONES FHD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55577
-#EXTINF:-1,ES| M+ LIGA DE CAMPEONES SD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55533
-#EXTINF:-1,ES| M+ LIGA DE CAMPEONES 2 FHD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/480414
-#EXTINF:-1,ES| M+ LIGA DE CAMPEONES 2 HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/480417
-#EXTINF:-1,ES| M+ LIGA DE CAMPEONES 2 SD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55578
-#EXTINF:-1,ES| M+ LIGA DE CAMPEONES 3 HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/480420
-#EXTINF:-1,ES| M+ LIGA DE CAMPEONES 3 SD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55579
-#EXTINF:-1,ES| M+ LIGA DE CAMPEONES 4 SD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55580
-#EXTINF:-1,ES| M+ LIGA DE CAMPEONES 5 HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/480418
-#EXTINF:-1,ES| M+ LIGA DE CAMPEONES 5 SD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55581
-#EXTINF:-1,ES| M+ LIGA DE CAMPEONES 6 HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55582
-#EXTINF:-1,ES| M+ LIGA DE CAMPEONES 7 HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55583
-#EXTINF:-1,ES| M+ LIGA DE CAMPEONES 8 HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55584
-#EXTINF:-1,ES| M+ LALIGATV FHD
+#EXTINF:-1 tvg-id="M.LaLiga.es" tvg-name="ES| M+ LALIGATV FHD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistarlaligatv.png"
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55530
-#EXTINF:-1,ES| M+ LALIGATV SD
+#EXTINF:-1 tvg-id="M.LaLiga.es" tvg-name="ES| M+ LALIGATV SD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistarligadecampeones.png"
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55531
-#EXTINF:-1,ES| DAZN LA LIGA 1 HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/472007
-#EXTINF:-1,ES| DAZN LA LIGA 1 SD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/472008
-#EXTINF:-1,ES| DAZN LA LIGA 2 HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/472009
-#EXTINF:-1,ES| DAZN LA LIGA 2 SD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/472010
-#EXTINF:-1,ES| DAZN 1 BAR
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/653004
-#EXTINF:-1,ES| DAZN 2 BAR
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/653003
-#EXTINF:-1,ES| LIGA TV BAR HD
+#EXTINF:-1 tvg-id="M.LaLiga.es" tvg-name="ES| LIGA TV BAR HD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistarligadecampeones.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55559
-#EXTINF:-1,ES| LALIGA TV BAR 2
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/653006
-#EXTINF:-1,ES| LALIGA TV BAR 3
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/653005
-#EXTINF:-1,ES| M+ LALIGATV 3 FHD
+#EXTINF:-1 tvg-id="M.LaLiga.es" tvg-name="ES| M+ LALIGATV HD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistarlaligatv.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55564
+#EXTINF:-1 tvg-id="M.LaLiga3.es" tvg-name="ES| M+ LALIGATV 3 FHD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistarlaligatv.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55568
-#EXTINF:-1,ES| M+ LALIGATV 3 SD
+#EXTINF:-1 tvg-id="M.LaLiga3.es" tvg-name="ES| M+ LALIGATV 3 SD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistarlaligatv.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55569
-#EXTINF:-1,ES| #VAMOS HD
+#EXTINF:-1 tvg-id="MLigaCampeones.es" tvg-name="ES| M+ LIGA DE CAMPEONES SD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistarligadecampeones.png"
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55533
+#EXTINF:-1 tvg-id="LigaDeCampeones.es" tvg-name="ES| M+ LIGA DE CAMPEONES FHD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistarligadecampeones.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55577
+#EXTINF:-1 tvg-id="LigaDeCampeones2.es" tvg-name="ES| M+ LIGA DE CAMPEONES 2 SD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistarligadecampeones.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55578
+#EXTINF:-1 tvg-id="LigaDeCampeones3.es" tvg-name="ES| M+ LIGA DE CAMPEONES 3 SD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistarligadecampeones.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55579
+#EXTINF:-1 tvg-id="LigaDeCampeones4.es" tvg-name="ES| M+ LIGA DE CAMPEONES 4 SD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistarligadecampeones.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55580
+#EXTINF:-1 tvg-id="LigaDeCampeones5.es" tvg-name="ES| M+ LIGA DE CAMPEONES 5 SD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistarligadecampeones.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55581
+#EXTINF:-1 tvg-id="LigaDeCampeones6.es" tvg-name="ES| M+ LIGA DE CAMPEONES 6 HD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistarligadecampeones.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55582
+#EXTINF:-1 tvg-id="LigaDeCampeones7.es" tvg-name="ES| M+ LIGA DE CAMPEONES 7 HD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistarligadecampeones.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55583
+#EXTINF:-1 tvg-id="LigaDeCampeones8.es" tvg-name="ES| M+ LIGA DE CAMPEONES 8 HD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistarligadecampeones.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55584
+#EXTINF:-1 tvg-id="Vamos.es" tvg-name="ES| #VAMOS HD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/vamos.png"
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55527
-#EXTINF:-1,ES| #VAMOS SD
+#EXTINF:-1 tvg-id="Vamos.es" tvg-name="ES| #VAMOS SD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/vamos.png"
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55528
-#EXTINF:-1,ES| M. DEPORTES HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55545
-#EXTINF:-1,ES| M. DEPORTES1
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55586
-#EXTINF:-1,ES| M. DEPORTES2
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55587
-#EXTINF:-1,ES| M. DEPORTES3
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55588
-#EXTINF:-1,ES| M. DEPORTES4
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55589
-#EXTINF:-1,ES| M. DEPORTES5
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55590
-#EXTINF:-1,ES| BEIN SPORT ESPAGNE
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/653007
-#EXTINF:-1,ES| EUROSPORT 1 FHD
+#EXTINF:-1 tvg-id="Eurosport1.es" tvg-name="ES| EUROSPORT 1 FHD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/eurosport1.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/82288
-#EXTINF:-1,ES| EUROSPORT 1 SD
+#EXTINF:-1 tvg-id="Eurosport1.es" tvg-name="ES| EUROSPORT 1 SD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/eurosport1.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55534
-#EXTINF:-1,ES| EUROSPORT 2 SD
+#EXTINF:-1 tvg-id="Eurosport2.es" tvg-name="ES| EUROSPORT 2 SD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/eurosport2.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55535
-#EXTINF:-1,ES| GOL PLAY SD
+#EXTINF:-1 tvg-id="GOL.es" tvg-name="ES| GOL PLAY SD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/gol.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55550
-#EXTINF:-1,=PT= DESPORTO =PT=
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55526
-#EXTINF:-1,PT| SPORT TV +
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/461167
-#EXTINF:-1,PT| SPORT TV + HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/461168
-#EXTINF:-1,PT| SPORT TV +
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/57176
-#EXTINF:-1,PT| SPORT TV 1 FHD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/57177
-#EXTINF:-1,PT| SPORT TV 1
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/57178
-#EXTINF:-1,PT| SPORT TV 2 FHD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/57179
-#EXTINF:-1,PT| SPORT TV 2
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/57180
-#EXTINF:-1,PT| SPORT TV 3 FHD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/57181
-#EXTINF:-1,PT| SPORT TV 3
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/57182
-#EXTINF:-1,PT| SPORT TV 4
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/57183
-#EXTINF:-1,PT| SPORT TV 5
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/57184
-#EXTINF:-1,PT| SPORT TV 1
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/461173
-#EXTINF:-1,PT| SPORT TV 1 HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/461174
-#EXTINF:-1,PT| SPORT TV 2
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/461175
-#EXTINF:-1,PT| SPORT TV 2 HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/461176
-#EXTINF:-1,PT| SPORT TV 3
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/461177
-#EXTINF:-1,PT| SPORT TV 3 HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/461178
-#EXTINF:-1,PT| SPORT TV 4
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/461179
-#EXTINF:-1,PT| SPORT TV 4 HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/461180
-#EXTINF:-1,PT| SPORT TV 5
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/461181
-#EXTINF:-1,PT| SPORT TV 5 HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/461182
-#EXTINF:-1,PT| SPORT TV 6 HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/461183
-#EXTINF:-1,PT| ELEVEN SPORT 1 HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/57185
-#EXTINF:-1,PT| ELEVEN SPORT 3 HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/57186
-#EXTINF:-1,PT| ELEVEN SPORT 4 HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/57187
-#EXTINF:-1,PT| ELEVEN 1 FULL HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/57188
-#EXTINF:-1,PT| ELEVEN 2 FULL HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/57189
-#EXTINF:-1,PT| ELEVEN 3 FULL HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/57190
-#EXTINF:-1,PT| ELEVEN 4 FULL HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/57191
-#EXTINF:-1,PT| ELEVEN 5 FULL HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/57192
-#EXTINF:-1,PT| ELEVEN 6 FULL HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/57193
-#EXTINF:-1,PT| ELEVEN SPORTS 1 HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/461186
-#EXTINF:-1,PT| ELEVEN SPORTS 1
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/461185
-#EXTINF:-1,PT| ELEVEN SPORTS 2
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/461187
-#EXTINF:-1,PT| ELEVEN SPORTS 2 HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/461188
-#EXTINF:-1,PT| ELEVEN SPORTS 3
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/461189
-#EXTINF:-1,PT| ELEVEN SPORTS 3 HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/461190
-#EXTINF:-1,PT| ELEVEN SPORTS 4
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/461191
-#EXTINF:-1,PT| ELEVEN SPORTS 4 HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/461192
-#EXTINF:-1,PT| ELEVEN SPORTS 5
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/461193
-#EXTINF:-1,PT| ELEVEN SPORTS 5 HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/461194
-#EXTINF:-1,PT| ELEVEN SPORTS 6
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/461195
-#EXTINF:-1,PT| ELEVEN SPORTS 6 HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/461196
-#EXTINF:-1,PT| BTV
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/461169
-#EXTINF:-1,PT| BTV HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/461170
-#EXTINF:-1,PT| PFC
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/461202
-#EXTINF:-1,PT| BTV 1 FHD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/57078
-#EXTINF:-1,PT| BTV 1
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/57079
-#EXTINF:-1,PT| Benfica TV
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/177336
-#EXTINF:-1,PT| GLOBO FULL HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/57087
-#EXTINF:-1,PT| GLOBO NOW FULL HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/57088
-#EXTINF:-1,PT| GLOBO
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/57107
-#EXTINF:-1,PT| GLOBO PREMIUM
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/57108
-#EXTINF:-1,PT| CANAL 11 HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/461164
-#EXTINF:-1,PT| CANAL 11 FULL HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/57081
-#EXTINF:-1,=IT= ITALIA =IT=
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56590
-#EXTINF:-1,IT| SKY SPORT 24 FULL HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56592
-#EXTINF:-1,IT| SKY SPORT 24 HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56593
-#EXTINF:-1,IT|  SKY SPORT 24 HEVC
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/136692
-#EXTINF:-1,IT| SKY SPORT 24 SD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56594
-#EXTINF:-1,IT| TOP CALCIO 24
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56591
-#EXTINF:-1,IT| SPORT ITALIA LIVE 24
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56595
-#EXTINF:-1,IT| SPORT ITALIA HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56596
-#EXTINF:-1,IT| SPORT ITALIA
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56597
-#EXTINF:-1,IT| SPORT ITALIA SOLO CALCIO
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56614
-#EXTINF:-1,IT| SKY SPORT UNO FULL HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56598
-#EXTINF:-1,IT| SKY SPORT UNO HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56599
-#EXTINF:-1,IT|  SKY SPORT UNO HEVC
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/136690
-#EXTINF:-1,IT| SKY SPORT UNO SD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56600
-#EXTINF:-1,IT| SKY SPORT ACTION FULL HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/337098
-#EXTINF:-1,IT| SKY SPORT ACTION HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/337099
-#EXTINF:-1,IT| SKY SPORT ACTION HEVC
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/337097
-#EXTINF:-1,IT| SPORT ACTION SD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/337100
-#EXTINF:-1,IT| SKY SPORT MAX FULL HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56615
-#EXTINF:-1,IT| SKY SPORT MAX HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56616
-#EXTINF:-1,IT| SKY SPORT MAX SD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56617
-#EXTINF:-1,IT| SKY SPORT ARENA FULL HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56618
-#EXTINF:-1,IT| SKY SPORT ARENA HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56619
-#EXTINF:-1,IT| SKY SPORT ARENA SD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56620
-#EXTINF:-1,IT| SKY SPORT CALCIO FULL HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56621
-#EXTINF:-1,IT| SKY SPORT CALCIO HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56622
-#EXTINF:-1,IT|  SKY SPORT CALCIO HEVC
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/136740
-#EXTINF:-1,IT| SKY SPORT CALCIO SD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56623
-#EXTINF:-1,IT| VETRINA DAZN
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/181350
-#EXTINF:-1,IT| SKY DAZN BAR FULL HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56669
-#EXTINF:-1,IT| SKY DAZN BAR HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56670
-#EXTINF:-1,IT| SKY DAZN BAR SD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56671
-#EXTINF:-1,IT| SKY DAZN BAR 2 FULL HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56672
-#EXTINF:-1,IT| SKY DAZN BAR 2 HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56673
-#EXTINF:-1,IT| DAZN CHANNEL FULL HD (Only Event)
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/365406
-#EXTINF:-1,IT| DAZN CHANNEL HD (Only Event)
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/365407
-#EXTINF:-1,IT| DAZN CHANNEL SD (Only Event)
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/365408
-#EXTINF:-1,IT| DAZN CHANNEL HEVC (Only Event)
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/365409
-#EXTINF:-1,IT| NFL DAZN (Only Event)
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/365410
-#EXTINF:-1,IT| DAZN WEB 1
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56674
-#EXTINF:-1,IT| DAZN WEB 2
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56675
-#EXTINF:-1,IT| DAZN WEB 3
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56676
-#EXTINF:-1,IT| DAZN WEB 4
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56677
-#EXTINF:-1,IT| DAZN WEB 5
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56678
-#EXTINF:-1,IT| DAZN WEB 6
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56679
-#EXTINF:-1,IT| DAZN WEB 7
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56680
-#EXTINF:-1,IT| DAZN WEB 8
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56681
-#EXTINF:-1,IT| DAZN WEB 9
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56682
-#EXTINF:-1,IT| DAZN WEB 10
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56683
-#EXTINF:-1,=IT= CALCIO =IT=
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56649
-#EXTINF:-1,IT| SKY CALCIO 1 FULL HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56650
-#EXTINF:-1,IT| SKY CALCIO 1 HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56651
-#EXTINF:-1,IT|  SKY CALCIO 1 HEVC
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/136734
-#EXTINF:-1,IT| SKY CALCIO 1 SD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56652
-#EXTINF:-1,IT| SKY CALCIO 2 FULL HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56653
-#EXTINF:-1,IT| SKY CALCIO 2 HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56654
-#EXTINF:-1,IT|  SKY CALCIO 2 HEVC
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/136735
-#EXTINF:-1,IT| SKY CALCIO 2 SD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56655
-#EXTINF:-1,IT| SKY CALCIO 3 FULL HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56656
-#EXTINF:-1,IT| SKY CALCIO 3 HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56657
-#EXTINF:-1,IT|  SKY CALCIO 3 HEVC
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/136736
-#EXTINF:-1,IT| SKY CALCIO 3 SD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56658
-#EXTINF:-1,IT| SKY CALCIO 4 FULL HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56659
-#EXTINF:-1,IT| SKY CALCIO 4 HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56660
-#EXTINF:-1,IT|  SKY CALCIO 4 HEVC
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/136737
-#EXTINF:-1,IT| SKY CALCIO 4 SD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56661
-#EXTINF:-1,IT| SKY CALCIO 5 FULL HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56662
-#EXTINF:-1,IT| SKY CALCIO 5 HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56663
-#EXTINF:-1,IT|  SKY CALCIO 5 HEVC
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/136738
-#EXTINF:-1,IT| SKY CALCIO 6 FULL HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56664
-#EXTINF:-1,IT| SKY CALCIO 6 HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56665
-#EXTINF:-1,IT|  SKY CALCIO 6 HEVC
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/136739
-#EXTINF:-1,IT| SKY CALCIO 7 FULL HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56666
-#EXTINF:-1,IT| SKY CALCIO 7 HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56667
-#EXTINF:-1,IT| SKY SPORT BAR PRIMEVIDEO FULL HD (Only Event)
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/365295
-#EXTINF:-1,IT| SKY SPORT BAR PRIMEVIDEO HD (Only Event)
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/365296
-#EXTINF:-1,IT| SKY SPORT BAR PRIMEVIDEO SD (Only Event)
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/365297
-#EXTINF:-1,IT| SKY SPORT BAR UNO FULL HD (Only Event)
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/365289
-#EXTINF:-1,IT| SKY SPORT BAR UNO HD (Only Event)
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/365290
-#EXTINF:-1,IT| SKY SPORT BAR UNO SD (Only Event)
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/365291
-#EXTINF:-1,IT| SKY SPORT BAR DUE FULL HD (Only Event)
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/365292
-#EXTINF:-1,IT| SKY SPORT BAR DUE HD (Only Event)
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/365293
-#EXTINF:-1,IT| SKY SPORT BAR DUE SD (Only Event)
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/365294
-#EXTINF:-1,IT| CHAMPIONS LEAGUE - PRIME VIDEO 1 (ONLY EVENT)
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/363356
-#EXTINF:-1,IT| CHAMPIONS LEAGUE - PRIME VIDEO 2 (ONLY EVENT)
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/363357
-#EXTINF:-1,IT| CHAMPIONS LEAGUE - PRIME VIDEO 3 (ONLY EVENT)
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/363358
-#EXTINF:-1,IT| CHAMPIONS LEAGUE - PRIME VIDEO 4 (ONLY EVENT)
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/363359
-#EXTINF:-1,IT| CHAMPIONS LEAGUE - PRIME VIDEO 5 (ONLY EVENT)
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/363360
-#EXTINF:-1,IT| CHAMPIONS LEAGUE - PRIME VIDEO 6 (ONLY EVENT)
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/363361
-#EXTINF:-1,IT| CHAMPIONS LEAGUE - PRIME VIDEO 7 (ONLY EVENT)
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/363362
-#EXTINF:-1,IT| EUROSPORT PLAYER LIVE 1 (attivo per evento )
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/320165
-#EXTINF:-1,IT| EUROSPORT PLAYER LIVE 2 (attivo per evento )
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/320166
-#EXTINF:-1,IT| EUROSPORT PLAYER LIVE 3 (attivo per evento )
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/320167
-#EXTINF:-1,IT| EUROSPORT PLAYER LIVE 4 (attivo per evento )
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/320168
-#EXTINF:-1,IT| EUROSPORT PLAYER LIVE 5 (attivo per evento )
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/320169
-#EXTINF:-1,IT| EUROSPORT PLAYER LIVE 6 (attivo per evento )
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/320170
-#EXTINF:-1,IT| EUROSPORT PLAYER LIVE 7 (attivo per evento )
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/320171
-#EXTINF:-1,IT| EUROSPORT PLAYER LIVE 8 (attivo per evento )
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/320172
-#EXTINF:-1,IT| EUROSPORT PLAYER LIVE 9 (attivo per evento )
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/320173
-#EXTINF:-1,IT| EUROSPORT PLAYER LIVE 10 (attivo per evento )
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/320174
-#EXTINF:-1,=ES= ESPAÑA FOXX =ES=
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55418
-#EXTINF:-1,ES| LA 1 FHD
+#EXTINF:-1 tvg-id="MDeportes1.es" tvg-name="ES| M. DEPORTES1" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistardeportes.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55586
+#EXTINF:-1 tvg-id="MovistarDeportes.es" tvg-name="ES| M. DEPORTES" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistardeportes.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55587
+#EXTINF:-1 tvg-id="MDeportes3.es" tvg-name="ES| M. DEPORTES3" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistardeportes.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55588
+#EXTINF:-1 tvg-id="MDeportes4.es" tvg-name="ES| M. DEPORTES4" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistardeportes.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55589
+#EXTINF:-1 tvg-id="MDeportes5.es" tvg-name="ES| M. DEPORTES5" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistardeportes.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55590
+#EXTINF:-1 tvg-id="MDeportes6.es" tvg-name="ES| M. DEPORTES6" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistardeportes.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55591
+#EXTINF:-1 tvg-id="MDeportes7.es" tvg-name="ES| M. DEPORTES7" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistardeportes.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55592
+#EXTINF:-1 tvg-id="LA1.es" tvg-name="ES| LA 1 FHD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/la1.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55419
-#EXTINF:-1,ES| LA 1 SD
+#EXTINF:-1 tvg-id="LA1.es" tvg-name="ES| LA 1 SD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/la1.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55420
-#EXTINF:-1,ES| LA 2 FHD
+#EXTINF:-1 tvg-id="LA2.es" tvg-name="ES| LA 2 FHD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/la2.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55421
-#EXTINF:-1,ES| LA 2 SD
+#EXTINF:-1 tvg-id="LA2.es" tvg-name="ES| LA 2 SD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/la2.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55422
-#EXTINF:-1,ES| ANTENA 3 FHD
+#EXTINF:-1 tvg-id="Antena3.es" tvg-name="ES| ANTENA 3 FHD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/antena3hd.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55423
-#EXTINF:-1,ES| ANTENA 3 SD
+#EXTINF:-1 tvg-id="Antena3.es" tvg-name="ES| ANTENA 3 SD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/antena3.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55424
-#EXTINF:-1,ES| CUATRO FHD
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="ES| CUATRO FHD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/cuatrohd.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55425
-#EXTINF:-1,ES| CUATRO SD
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="ES| CUATRO SD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/cuatro.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55426
-#EXTINF:-1,ES| TELECINCO FHD
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="ES| TELECINCO FHD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/telecincohd.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55427
-#EXTINF:-1,ES| TELECINCO SD
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="ES| TELECINCO SD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/telecinco.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55428
-#EXTINF:-1,ES| LA SEXTA FHD
+#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="ES| LA SEXTA FHD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/lasextahd.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55429
-#EXTINF:-1,ES| LA SEXTA SD
+#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="ES| LA SEXTA SD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/lasexta.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55430
-#EXTINF:-1,ES| DKISS SD
+#EXTINF:-1 tvg-id="DKISS.es" tvg-name="ES| DKISS SD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/dkiss.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55435
-#EXTINF:-1,ES| DMAX SD
+#EXTINF:-1 tvg-id="Dmax.es" tvg-name="ES| DMAX SD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/dmax-hilerethip.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55436
-#EXTINF:-1,ES| NOVA FHD
+#EXTINF:-1 tvg-id="Nova.es" tvg-name="ES| NOVA FHD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/nova.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55437
-#EXTINF:-1,ES| NOVA SD
+#EXTINF:-1 tvg-id="Nova.es" tvg-name="ES| NOVA SD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/nova.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55438
-#EXTINF:-1,ES| TEN SD
+#EXTINF:-1 tvg-id="Ten.es" tvg-name="ES| TEN SD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/ten.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55439
-#EXTINF:-1,ES| 7RM HD
+#EXTINF:-1 tvg-id="7tv.es" tvg-name="ES| 7RM HD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/7rm.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55444
-#EXTINF:-1,ES| 7RM SD
+#EXTINF:-1 tvg-id="7tv.es" tvg-name="ES| 7RM SD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/7rm.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/82139
-#EXTINF:-1,=ES= ENTRETENIMIENTO FOXX =ES=
-#EXTINF:-1,ES| TV GALICIA
+#EXTINF:-1 tvg-id="CanalAndalucia.es" tvg-name="ES| CANAL SUR HD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/canalsurandalucia.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55448
+#EXTINF:-1 tvg-id="TVGalicia.es" tvg-name="ES| TV GALICIA" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/tvgalicia.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/82267
-#EXTINF:-1,ES| BEMAD TV HD
+#EXTINF:-1 tvg-id="Dreamworks.es" tvg-name="ES| DREAMWORKS FHD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/dreamworks.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/82268
+#EXTINF:-1 tvg-id="BeMad.es" tvg-name="ES| BEMAD TV HD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/bemad.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55463
-#EXTINF:-1,ES| BEMAD TV SD
+#EXTINF:-1 tvg-id="BeMad.es" tvg-name="ES| BEMAD TV SD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/bemad.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55464
-#EXTINF:-1,ES| COMEDY CENTRAL FHD
+#EXTINF:-1 tvg-id="Blaze.es" tvg-name="ES| BLAZE" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/blaze.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55465
+#EXTINF:-1 tvg-id="ComedyCentral.es" tvg-name="ES| COMEDY CENTRAL FHD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/comedycentral.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55468
-#EXTINF:-1,ES| COMEDY CENTRAL SD
+#EXTINF:-1 tvg-id="ComedyCentral.es" tvg-name="ES| COMEDY CENTRAL SD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/comedycentral.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55469
-#EXTINF:-1,ES| COSMO FHD
+#EXTINF:-1 tvg-id="Cosmo.es" tvg-name="ES| COSMO FHD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/cosmo.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55470
-#EXTINF:-1,ES| COSMO SD
+#EXTINF:-1 tvg-id="Cosmo.es" tvg-name="ES| COSMO SD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/cosmo.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55471
-#EXTINF:-1,ES| DIVINITY SD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55472
-#EXTINF:-1,ES| MEGA SD
+#EXTINF:-1 tvg-id="Energy.es" tvg-name="ES| ENERGY SD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/energy.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55473
+#EXTINF:-1 tvg-id="FDF.sp" tvg-name="ES| FDF SD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/fdf.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55474
+#EXTINF:-1 tvg-id="Mega.es" tvg-name="ES| MEGA SD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/mega.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55481
-#EXTINF:-1,ES| MEGA HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/472997
-#EXTINF:-1,ES| NEOX SD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55522
-#EXTINF:-1,=ES= CULTURA FOXX =ES=
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55593
-#EXTINF:-1,ES| CANAL COCINA SD
+#EXTINF:-1 tvg-id="CanalCocina.es" tvg-name="ES| CANAL COCINA SD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/canalcocina.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55595
-#EXTINF:-1,ES| ODISEA SD
+#EXTINF:-1 tvg-id="Odisea.es" tvg-name="ES| ODISEA SD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/odisseia.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55597
-#EXTINF:-1,ES| CAZA Y PESCA FHD
+#EXTINF:-1 tvg-id="CazaPesca.es" tvg-name="ES| CAZA Y PESCA FHD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/cazaypesca.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55599
-#EXTINF:-1,ES| CAZA Y PESCA SD
+#EXTINF:-1 tvg-id="CazaPesca.es" tvg-name="ES| CAZA Y PESCA SD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/cazaypesca.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55600
-#EXTINF:-1,ES| CRIMEN + INVESTIGACIÓN
+#EXTINF:-1 tvg-id="CrimenInvestigacion.es" tvg-name="ES| CRIMEN + INVESTIGACIÓN" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/crimeandinvestigation.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55602
-#EXTINF:-1,ES| CANAL DECASA SD
+#EXTINF:-1 tvg-id="CanalDecasa.es" tvg-name="ES| CANAL DECASA SD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/canaldecasa.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55604
-#EXTINF:-1,ES| DISCOVERY SD
+#EXTINF:-1 tvg-id="DiscoveryChannel.es" tvg-name="ES| DISCOVERY SD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/discoverychannelhd.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55606
-#EXTINF:-1,ES| HISTORIA SD
+#EXTINF:-1 tvg-id="Historia.es" tvg-name="ES| HISTORIA SD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/historia.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55609
-#EXTINF:-1,ES| IBERALIA TV
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES| IBERALIA TV" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/iberalia.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55610
-#EXTINF:-1,ES| NATIONAL GEOGRAPHIC WILD FHD
+#EXTINF:-1 tvg-id="NatGeoWild.es" tvg-name="ES| NATIONAL GEOGRAPHIC WILD FHD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/natgeowildhd.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55611
-#EXTINF:-1,ES| NATIONAL GEOGRAPHIC WILD SD
+#EXTINF:-1 tvg-id="NatGeoWild.es" tvg-name="ES| NATIONAL GEOGRAPHIC WILD SD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/natgeowild.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55612
-#EXTINF:-1,ES| NATIONAL GEOGRAPHIC FHD
+#EXTINF:-1 tvg-id="NationalGeographic.sp" tvg-name="ES| NATIONAL GEOGRAPHIC FHD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/nationalgeographichd.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55613
-#EXTINF:-1,ES| NATIONAL GEOGRAPHIC SD
+#EXTINF:-1 tvg-id="NationalGeographic.sp" tvg-name="ES| NATIONAL GEOGRAPHIC SD" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/nationalgeographic.png" 
 http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55614
-#EXTINF:-1,ES| MEZZO
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55624
-#EXTINF:-1,ES| MEZZO LIVE HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55623
-#EXTINF:-1,ES| MTV HD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55618
-#EXTINF:-1,ES| HISTORIA FHD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/472736
-#EXTINF:-1,ES| CANAL DECASA FHD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/472737
-#EXTINF:-1,ES| DISCOVERY FHD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/472738
-#EXTINF:-1,ES| IBERALIA 100% PESCA
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/472739
-#EXTINF:-1,ES| IBERALIA 100% CAZA
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/472740
-#EXTINF:-1,ES| CANAL COCINA FHD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/472745
-#EXTINF:-1,ES| ODISEA FHD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/472748
-#EXTINF:-1,ES| 24 HORAS FHD
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/471422
-#EXTINF:-1,##### ESP DEPORTES TREX #####
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/471504
-#EXTINF:-1,ES| MOVISTAR PLUS+ HD
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/1324666
-#EXTINF:-1,ES| M+ CRACKS HD
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/1324668
-#EXTINF:-1,ES| M+ DOCUMENTALES HD
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/1324667
-#EXTINF:-1,ES| GOL
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107598
-#EXTINF:-1,ES| M. LALIGA HD
+#EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="IT| SPORT ITALIA LIVE 24" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/SPORT ITALIA LIVE 24.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56595
+#EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="IT| SPORT ITALIA HD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/SPORTITALIA.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56596
+#EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="IT| SPORT ITALIA" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/SPORTITALIA.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56597
+#EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="IT| SPORT ITALIA SOLO CALCIO" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/SPORTITALIA.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56614
+#EXTINF:-1 tvg-id="SkySportUno.it" tvg-name="IT| SKY SPORT UNO FULL HD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/sky%20sport%20uno%20hd.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56598
+#EXTINF:-1 tvg-id="SkySportUno.it" tvg-name="IT| SKY SPORT UNO HD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/sky%20sport%20uno%20hd.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56599
+#EXTINF:-1 tvg-id="SkySportUno.it" tvg-name="IT|  SKY SPORT UNO HEVC" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/sky%20sport%20uno.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/136690
+#EXTINF:-1 tvg-id="SkySportUno.it" tvg-name="IT| SKY SPORT UNO SD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/sky%20sport%20uno.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56600
+#EXTINF:-1 tvg-id="SkySportUno.it" tvg-name="IT| SKY SPORT ACTION FULL HD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/sky sports action hd.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/337098
+#EXTINF:-1 tvg-id="SkySportAction.it" tvg-name="IT| SKY SPORT ACTION HD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/sky sports action hd.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/337099
+#EXTINF:-1 tvg-id="SkySportAction.it" tvg-name="IT| SKY SPORT ACTION HEVC" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/sky sports action hd.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/337097
+#EXTINF:-1 tvg-id="SkySportAction.it" tvg-name="IT| SPORT ACTION SD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/sky sports action hd.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/337100
+#EXTINF:-1 tvg-id="SkySportFootball.it" tvg-name="IT| SKY SPORT FOOTBALL FULL HD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/sky%20sport%20football%20hd.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56615
+#EXTINF:-1 tvg-id="SkySportFootball.it" tvg-name="IT| SKY SPORT FOOTBALL HD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/sky%20sport%20football%20hd.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56616
+#EXTINF:-1 tvg-id="SkySportFootball.it" tvg-name="IT|  SKY SPORT FOOTBALL HEVC" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/sky%20sport%20football.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/136689
+#EXTINF:-1 tvg-id="SkySportFootball.it" tvg-name="IT| SKY SPORT FOOTBALL SD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/sky%20sport%20football.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56617
+#EXTINF:-1 tvg-id="SkySportArena.it" tvg-name="IT| SKY SPORT ARENA FULL HD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/sky%20sports%20arena%20hd.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56618
+#EXTINF:-1 tvg-id="SkySportArena.it" tvg-name="IT| SKY SPORT ARENA HD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/sky%20sports%20arena%20hd.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56619
+#EXTINF:-1 tvg-id="SkySportArena.it" tvg-name="IT| SKY SPORT ARENA SD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/sky%20sports%20arena.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56620
+#EXTINF:-1 tvg-id="SkySportcalcio.it" tvg-name="IT| SKY SPORT CALCIO FULL HD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56621
+#EXTINF:-1 tvg-id="SkySportcalcio.it" tvg-name="IT| SKY SPORT CALCIO HD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56622
+#EXTINF:-1 tvg-id="SkySportcalcio.it" tvg-name="IT|  SKY SPORT CALCIO HEVC" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/136740
+#EXTINF:-1 tvg-id="SkySportcalcio.it" tvg-name="IT| SKY SPORT CALCIO SD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56623
+#EXTINF:-1 tvg-id="" tvg-name="IT| SKY CALCIO 1 FULL HD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56650
+#EXTINF:-1 tvg-id="" tvg-name="IT| SKY CALCIO 1 HD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56651
+#EXTINF:-1 tvg-id="" tvg-name="IT|  SKY CALCIO 1 HEVC" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/136734
+#EXTINF:-1 tvg-id="" tvg-name="IT| SKY CALCIO 1 SD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56652
+#EXTINF:-1 tvg-id="" tvg-name="IT| SKY CALCIO 2 FULL HD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56653
+#EXTINF:-1 tvg-id="" tvg-name="IT| SKY CALCIO 2 HD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56654
+#EXTINF:-1 tvg-id="" tvg-name="IT|  SKY CALCIO 2 HEVC" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/136735
+#EXTINF:-1 tvg-id="" tvg-name="IT| SKY CALCIO 2 SD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56655
+#EXTINF:-1 tvg-id="" tvg-name="IT| SKY CALCIO 3 FULL HD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56656
+#EXTINF:-1 tvg-id="" tvg-name="IT| SKY CALCIO 3 HD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56657
+#EXTINF:-1 tvg-id="" tvg-name="IT|  SKY CALCIO 3 HEVC" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/136736
+#EXTINF:-1 tvg-id="" tvg-name="IT| SKY CALCIO 3 SD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56658
+#EXTINF:-1 tvg-id="" tvg-name="IT| SKY CALCIO 4 FULL HD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56659
+#EXTINF:-1 tvg-id="" tvg-name="IT| SKY CALCIO 4 HD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56660
+#EXTINF:-1 tvg-id="" tvg-name="IT|  SKY CALCIO 4 HEVC" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/136737
+#EXTINF:-1 tvg-id="" tvg-name="IT| SKY CALCIO 4 SD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56661
+#EXTINF:-1 tvg-id="" tvg-name="IT| SKY CALCIO 5 FULL HD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56662
+#EXTINF:-1 tvg-id="" tvg-name="IT| SKY CALCIO 5 HD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56663
+#EXTINF:-1 tvg-id="" tvg-name="IT|  SKY CALCIO 5 HEVC" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/136738
+#EXTINF:-1 tvg-id="" tvg-name="IT| SKY CALCIO 6 FULL HD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56664
+#EXTINF:-1 tvg-id="" tvg-name="IT| SKY CALCIO 6 HD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56665
+#EXTINF:-1 tvg-id="" tvg-name="IT|  SKY CALCIO 6 HEVC" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/136739
+#EXTINF:-1 tvg-id="" tvg-name="IT| SKY CALCIO 7 FULL HD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56666
+#EXTINF:-1 tvg-id="" tvg-name="IT| SKY CALCIO 7 HD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56667
+#EXTINF:-1 tvg-id="" tvg-name="=IT= DAZN =IT=" tvg-logo="http://covers.dragons-ott.com/PICON/entrepicon.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56668
+#EXTINF:-1 tvg-id="" tvg-name="IT| VETRINA DAZN" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/SKY DAZN BAR FULL HD.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/181350
+#EXTINF:-1 tvg-id="DAZN1Bar.de" tvg-name="IT| SKY DAZN BAR FULL HD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/SKY DAZN BAR FULL HD.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56669
+#EXTINF:-1 tvg-id="DAZN1Bar.de" tvg-name="IT| SKY DAZN BAR HD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/SKY DAZN BAR FULL HD.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56670
+#EXTINF:-1 tvg-id="DAZN1Bar.de" tvg-name="IT| SKY DAZN BAR SD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/SKY DAZN BAR FULL HD.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56671
+#EXTINF:-1 tvg-id="DAZN2bar.de" tvg-name="IT| SKY DAZN BAR 2 FULL HD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/SKY DAZN BAR FULL HD.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56672
+#EXTINF:-1 tvg-id="DAZN2bar.de" tvg-name="IT| SKY DAZN BAR 2 HD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/SKY DAZN BAR FULL HD.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56673
+#EXTINF:-1 tvg-id="DAZN.it" tvg-name="IT| DAZN WEB 1" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/DAZN%20WEB%201.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56674
+#EXTINF:-1 tvg-id="DAZN.it" tvg-name="IT| DAZN WEB 2" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/DAZN%20WEB%201.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56675
+#EXTINF:-1 tvg-id="DAZN.it" tvg-name="IT| DAZN WEB 3" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/DAZN%20WEB%201.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56676
+#EXTINF:-1 tvg-id="DAZN.it" tvg-name="IT| DAZN WEB 4" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/DAZN%20WEB%201.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56677
+#EXTINF:-1 tvg-id="DAZN.it" tvg-name="IT| DAZN WEB 5" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/DAZN%20WEB%201.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56678
+#EXTINF:-1 tvg-id="DAZN.it" tvg-name="IT| DAZN WEB 6" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/DAZN%20WEB%201.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56679
+#EXTINF:-1 tvg-id="DAZN.it" tvg-name="IT| DAZN WEB 7" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/DAZN%20WEB%201.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56680
+#EXTINF:-1 tvg-id="DAZN.it" tvg-name="IT| DAZN WEB 8" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/DAZN%20WEB%201.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56681
+#EXTINF:-1 tvg-id="DAZN.it" tvg-name="IT| DAZN WEB 9" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/DAZN%20WEB%201.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56682
+#EXTINF:-1 tvg-id="DAZN.it" tvg-name="IT| DAZN WEB 10" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/DAZN%20WEB%201.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56683
+#EXTINF:-1 tvg-id="" tvg-name="IT| SKY SPORT BAR PRIMEVIDEO FULL HD (Only Event)" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/365295
+#EXTINF:-1 tvg-id="" tvg-name="IT| SKY SPORT BAR PRIMEVIDEO HD (Only Event)" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/365296
+#EXTINF:-1 tvg-id="" tvg-name="IT| SKY SPORT BAR PRIMEVIDEO SD (Only Event)" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/365297
+#EXTINF:-1 tvg-id="" tvg-name="IT| SKY SPORT BAR UNO FULL HD (Only Event)" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/365289
+#EXTINF:-1 tvg-id="" tvg-name="IT| SKY SPORT BAR UNO HD (Only Event)" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/365290
+#EXTINF:-1 tvg-id="" tvg-name="IT| SKY SPORT BAR UNO SD (Only Event)" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/365291
+#EXTINF:-1 tvg-id="" tvg-name="IT| SKY SPORT BAR DUE FULL HD (Only Event)" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/365292
+#EXTINF:-1 tvg-id="" tvg-name="IT| SKY SPORT BAR DUE HD (Only Event)" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/365293
+#EXTINF:-1 tvg-id="" tvg-name="IT| SKY SPORT BAR DUE SD (Only Event)" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/skysport.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/365294
+#EXTINF:-1 tvg-id="" tvg-name="IT| CHAMPIONS LEAGUE - PRIME VIDEO 1 (ONLY EVENT)" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/prime-league1.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/363356
+#EXTINF:-1 tvg-id="" tvg-name="IT| CHAMPIONS LEAGUE - PRIME VIDEO 2 (ONLY EVENT)" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/prime-league1.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/363357
+#EXTINF:-1 tvg-id="" tvg-name="IT| CHAMPIONS LEAGUE - PRIME VIDEO 3 (ONLY EVENT)" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/prime-league1.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/363358
+#EXTINF:-1 tvg-id="" tvg-name="IT| CHAMPIONS LEAGUE - PRIME VIDEO 4 (ONLY EVENT)" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/prime-league1.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/363359
+#EXTINF:-1 tvg-id="" tvg-name="IT| CHAMPIONS LEAGUE - PRIME VIDEO 5 (ONLY EVENT)" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/prime-league1.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/363360
+#EXTINF:-1 tvg-id="" tvg-name="IT| CHAMPIONS LEAGUE - PRIME VIDEO 6 (ONLY EVENT)" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/prime-league1.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/363361
+#EXTINF:-1 tvg-id="" tvg-name="IT| CHAMPIONS LEAGUE - PRIME VIDEO 7 (ONLY EVENT)" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/prime-league1.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/363362
+#EXTINF:-1 tvg-id="Canale5.it" tvg-name="IT| CANALE 5 FULL HD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/canale%205%20hd.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56392
+#EXTINF:-1 tvg-id="Canale5.it" tvg-name="IT| CANALE 5 HD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/canale%205%20hd.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56393
+#EXTINF:-1 tvg-id="Canale5.it" tvg-name="IT|  CANALE 5 HEVC" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/canale%205%20hd.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/136671
+#EXTINF:-1 tvg-id="Canale5.it" tvg-name="IT| CANALE 5 SD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/canale%205%20hd.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56394
+#EXTINF:-1 tvg-id="20Mediaset.it" tvg-name="IT| CANALE 20 FULL HD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/20mediasethd.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56395
+#EXTINF:-1 tvg-id="20Mediaset.it" tvg-name="IT| CANALE 20 HD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/20mediasethd.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56396
+#EXTINF:-1 tvg-id="MediasetExtra.it" tvg-name="IT| MEDIASET EXTRA" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/mediaset%20extra.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56397
+#EXTINF:-1 tvg-id="RaiUno.it" tvg-name="IT| Rai 1 FULL HD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/rai%201%20hd.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56372
+#EXTINF:-1 tvg-id="RaiUno.it" tvg-name="IT| RAI 1 SD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/rai%201%20hd.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56374
+#EXTINF:-1 tvg-id="RaiDue.it" tvg-name="IT| RAI 2 FULL HD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/rai 2 hd.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56375
+#EXTINF:-1 tvg-id="RaiDue.it" tvg-name="IT| RAI 2 SD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/rai%202%20hd.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56377
+#EXTINF:-1 tvg-id="Italia1.it" tvg-name="IT| ITALIA 1 FULL HD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/italia1hd.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56385
+#EXTINF:-1 tvg-id="Italia1.it" tvg-name="IT| ITALIA 1 SD" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/italia1.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56387
+#EXTINF:-1 tvg-id="Italia2.it" tvg-name="IT| ITALIA 2" tvg-logo="http://covers.dragons-ott.com/PICON/ITALIE/mediaset%20italia%20due.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/56388
+#EXTINF:-1 tvg-id="TVI.pt" tvg-name="PT| TVI" tvg-logo="http://covers.dragons-ott.com/PICON/PORTUGAL/tvi.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/461082
+#EXTINF:-1 tvg-id="TVI.pt" tvg-name="PT| TVI HD" tvg-logo="http://covers.dragons-ott.com/PICON/PORTUGAL/tvi.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/461083
+#EXTINF:-1 tvg-id="SportTVplus.pt" tvg-name="PT| SPORT TV +" tvg-logo="http://covers.dragons-ott.com/PICON/PORTUGAL/sporttvplus.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/461167
+#EXTINF:-1 tvg-id="SportTVplus.pt" tvg-name="PT| SPORT TV + HD" tvg-logo="http://covers.dragons-ott.com/PICON/PORTUGAL/sporttvplus.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/461168
+#EXTINF:-1 tvg-id="SportTV4K.pt" tvg-name="PT| SPORT TV +" tvg-logo="http://covers.dragons-ott.com/PICON/PORTUGAL/sporttvplus.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/57176
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT| SPORT TV 1" tvg-logo="http://covers.dragons-ott.com/PICON/PORTUGAL/sporttv1.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/461173
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT| SPORT TV 1 HD" tvg-logo="http://covers.dragons-ott.com/PICON/PORTUGAL/sporttv1.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/461174
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="PT| SPORT TV 1 FHD" tvg-logo="http://covers.dragons-ott.com/PICON/PORTUGAL/sporttv1.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/57177
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="PT| SPORT TV 1" tvg-logo="http://covers.dragons-ott.com/PICON/PORTUGAL/sporttv1.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/57178
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT| SPORT TV 2" tvg-logo="http://covers.dragons-ott.com/PICON/PORTUGAL/sporttv2.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/461175
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT| SPORT TV 2 HD" tvg-logo="http://covers.dragons-ott.com/PICON/PORTUGAL/sporttv2.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/461176
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="PT| SPORT TV 2 FHD" tvg-logo="http://covers.dragons-ott.com/PICON/PORTUGAL/sporttv2.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/57179
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="PT| SPORT TV 2" tvg-logo="http://covers.dragons-ott.com/PICON/PORTUGAL/sporttv2.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/57180
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT| SPORT TV 3" tvg-logo="http://covers.dragons-ott.com/PICON/PORTUGAL/sporttv3.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/461177
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT| SPORT TV 3 HD" tvg-logo="http://covers.dragons-ott.com/PICON/PORTUGAL/sporttv3.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/461178
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="PT| SPORT TV 3 FHD" tvg-logo="http://covers.dragons-ott.com/PICON/PORTUGAL/sporttv3.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/57181
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="PT| SPORT TV 3" tvg-logo="http://covers.dragons-ott.com/PICON/PORTUGAL/sporttv3.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/57182
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT| SPORT TV 4" tvg-logo="http://covers.dragons-ott.com/PICON/PORTUGAL/sporttv4.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/461179
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT| SPORT TV 4 HD" tvg-logo="http://covers.dragons-ott.com/PICON/PORTUGAL/sporttv4.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/461180
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="PT| SPORT TV 4" tvg-logo="http://covers.dragons-ott.com/PICON/PORTUGAL/sporttv4.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/57183
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT| SPORT TV 5" tvg-logo="http://covers.dragons-ott.com/PICON/PORTUGAL/sporttv5.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/461181
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT| SPORT TV 5 HD" tvg-logo="http://covers.dragons-ott.com/PICON/PORTUGAL/sporttv5.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/461182
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="PT| SPORT TV 5" tvg-logo="http://covers.dragons-ott.com/PICON/PORTUGAL/sporttv5.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/57184
+#EXTINF:-1 tvg-id="SportTV6.pt" tvg-name="PT| SPORT TV 6 HD" tvg-logo="http://covers.dragons-ott.com/PICON/PORTUGAL/sporttv6.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/461183
+#EXTINF:-1 tvg-id="ElevenSports1.pt" tvg-name="PT| ELEVEN SPORT 1 HD" tvg-logo="http://covers.dragons-ott.com/PICON/PORTUGAL/elevensports1.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/57185
+#EXTINF:-1 tvg-id="ElevenSports3.pt" tvg-name="PT| ELEVEN SPORT 3 HD" tvg-logo="http://covers.dragons-ott.com/PICON/PORTUGAL/elevensports3.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/57186
+#EXTINF:-1 tvg-id="ElevenSports4.pt" tvg-name="PT| ELEVEN SPORT 4 HD" tvg-logo="http://covers.dragons-ott.com/PICON/PORTUGAL/elevensports4.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/57187
+#EXTINF:-1 tvg-id="ElevenSports1.pt" tvg-name="PT| ELEVEN 1 FULL HD" tvg-logo="http://covers.dragons-ott.com/PICON/PORTUGAL/elevensports1.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/57188
+#EXTINF:-1 tvg-id="ElevenSports2.pt" tvg-name="PT| ELEVEN 2 FULL HD" tvg-logo="http://covers.dragons-ott.com/PICON/PORTUGAL/elevensports2.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/57189
+#EXTINF:-1 tvg-id="ElevenSports3.pt" tvg-name="PT| ELEVEN 3 FULL HD" tvg-logo="http://covers.dragons-ott.com/PICON/PORTUGAL/elevensports3.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/57190
+#EXTINF:-1 tvg-id="ElevenSports4.pt" tvg-name="PT| ELEVEN 4 FULL HD" tvg-logo="http://covers.dragons-ott.com/PICON/PORTUGAL/elevensports4.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/57191
+#EXTINF:-1 tvg-id="ElevenSports5.pt" tvg-name="PT| ELEVEN 5 FULL HD" tvg-logo="http://covers.dragons-ott.com/PICON/PORTUGAL/elevensports5.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/57192
+#EXTINF:-1 tvg-id="ElevenSports6.pt" tvg-name="PT| ELEVEN 6 FULL HD" tvg-logo="http://covers.dragons-ott.com/PICON/PORTUGAL/elevensports6.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/57193
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT| ELEVEN SPORTS 1 HD" tvg-logo="http://covers.dragons-ott.com/PICON/PORTUGAL/elevensports1.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/461186
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT| ELEVEN SPORTS 1" tvg-logo="http://covers.dragons-ott.com/PICON/PORTUGAL/elevensports1.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/461185
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT| ELEVEN SPORTS 2" tvg-logo="http://covers.dragons-ott.com/PICON/PORTUGAL/elevensports2.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/461187
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT| ELEVEN SPORTS 2 HD" tvg-logo="http://covers.dragons-ott.com/PICON/PORTUGAL/elevensports2.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/461188
+#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT| ELEVEN SPORTS 3" tvg-logo="http://covers.dragons-ott.com/PICON/PORTUGAL/elevensports3.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/461189
+#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT| ELEVEN SPORTS 3 HD" tvg-logo="http://covers.dragons-ott.com/PICON/PORTUGAL/elevensports3.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/461190
+#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT| ELEVEN SPORTS 4" tvg-logo="http://covers.dragons-ott.com/PICON/PORTUGAL/elevensports4.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/461191
+#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT| ELEVEN SPORTS 4 HD" tvg-logo="http://covers.dragons-ott.com/PICON/PORTUGAL/elevensports4.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/461192
+#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT| ELEVEN SPORTS 5" tvg-logo="http://covers.dragons-ott.com/PICON/PORTUGAL/elevensports5.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/461193
+#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT| ELEVEN SPORTS 5 HD" tvg-logo="http://covers.dragons-ott.com/PICON/PORTUGAL/elevensports5.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/461194
+#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT| ELEVEN SPORTS 6" tvg-logo="http://covers.dragons-ott.com/PICON/PORTUGAL/elevensports6.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/461195
+#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT| ELEVEN SPORTS 6 HD" tvg-logo="http://covers.dragons-ott.com/PICON/PORTUGAL/elevensports6.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/461196
+#EXTINF:-1 tvg-id="Canal11.pt" tvg-name="PT| CANAL 11 FULL HD" tvg-logo="http://covers.dragons-ott.com/PICON/PORTUGAL/canal11hd.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/57081
+#EXTINF:-1 tvg-id="Canal11.pt" tvg-name="PT| CANAL 11 HD" tvg-logo="http://covers.dragons-ott.com/PICON/PORTUGAL/canal11hd.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/461164
+#EXTINF:-1 tvg-id="BTV1.pt" tvg-name="PT| BTV" tvg-logo="http://covers.dragons-ott.com/PICON/PORTUGAL/btv.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/461169
+#EXTINF:-1 tvg-id="BTV1.pt" tvg-name="PT| BTV HD" tvg-logo="http://covers.dragons-ott.com/PICON/PORTUGAL/btv.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/461170
+#EXTINF:-1 tvg-id="BTV1.pt" tvg-name="PT| BTV 1 FHD" tvg-logo="http://covers.dragons-ott.com/PICON/PORTUGAL/btv.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/57078
+#EXTINF:-1 tvg-id="BTV1.pt" tvg-name="PT| BTV 1" tvg-logo="http://covers.dragons-ott.com/PICON/PORTUGAL/btv.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/57079
+#EXTINF:-1 tvg-id="BTV1.pt" tvg-name="PT| Benfica TV" tvg-logo="http://covers.dragons-ott.com/PICON/PORTUGAL/benficatv.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/177336
+#EXTINF:-1 tvg-id="pfc.pt" tvg-name="PT| PFC" tvg-logo="http://covers.dragons-ott.com/PICON/PORTUGAL/PFC.png" 
+http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/461202
+#EXTINF:-1 tvg-id="" tvg-name="=ES= TREX =ES=" tvg-logo="http://covers.dragons-ott.com/PICON/entrepicon.png" 
+http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/813294
+#EXTINF:-1 tvg-id="MLaLiga.es" tvg-name="ES| M. LALIGA HD" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN-HICHAM/Movistar-LaLiga.png" 
 http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107564
-#EXTINF:-1,ES| M. LALIGA HEVC
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/119004
-#EXTINF:-1,ES| LALIGATV BAR HD
+#EXTINF:-1 tvg-id="LaLigaTVBar.es" tvg-name="ES| LALIGATV BAR HD" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN-HICHAM/LaLiga-TV-Bar.png" 
 http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107591
-#EXTINF:-1,ES| LALIGA TV BAR HEVC
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/119011
-#EXTINF:-1,ES| M. LALIGA FHD
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/915236
-#EXTINF:-1,ES| M. LALIGA 1 FHD (1080P)
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/477159
-#EXTINF:-1,ES| M. LALIGA 1 HD
+#EXTINF:-1 tvg-id="M.LaLiga1.es" tvg-name="ES| M. LALIGA 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN-HICHAM/Movistar-LaLiga-1.png" 
 http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107567
-#EXTINF:-1,ES| M. LALIGA 1 HEVC
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/119005
-#EXTINF:-1,ES| M. LALIGA 2 FHD (1080P)
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/477160
-#EXTINF:-1,ES| M. LALIGA 2 HD
+#EXTINF:-1 tvg-id="MLaLiga2.es" tvg-name="ES| M. LALIGA 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN-HICHAM/Movistar-LaLiga-2.png" 
 http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107566
-#EXTINF:-1,ES| M. LALIGA 3 FHD
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/915235
-#EXTINF:-1,ES| M. LALIGA 3 HD [LIVEEVENT]
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107565
-#EXTINF:-1,ES| M. LALIGA 4 FHD
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/915237
-#EXTINF:-1,ES| M. LALIGA 4 HD
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/915238
-#EXTINF:-1,ES| M. LA LIGA 4 [LIVEEVENT]
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/557397
-#EXTINF:-1,ES| M. LALIGA 5 [LIVEEVENT]
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107568
-#EXTINF:-1,ES| M. LALIGA 6 [LIVEEVENT]
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107569
-#EXTINF:-1,ES| M. LALIGA 7 [LIVEEVENT]
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107570
-#EXTINF:-1,ES| M. LALIGA 8 [LIVEEVENT]
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107571
-#EXTINF:-1,ES| M. LALIGA 9 [LIVEEVENT]
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107572
-#EXTINF:-1,ES| M. LALIGA 10 [LIVEEVENT]
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107573
-#EXTINF:-1,ES|  GOL MUNDIAL 1 4K
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/1324680
-#EXTINF:-1,ES|  GOL MUNDIAL 1 HD
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/1324679
-#EXTINF:-1,ES|  GOL MUNDIAL 2 4K
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/1324678
-#EXTINF:-1,ES|  GOL MUNDIAL 2 HD
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/1324677
-#EXTINF:-1,ES|  GOL MUNDIAL 3 4K
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/1324676
-#EXTINF:-1,ES|  GOL MUNDIAL 3 HD
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/1324675
-#EXTINF:-1,ES|  GOL MUNDIAL 4 4K
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/1324674
-#EXTINF:-1,ES|  GOL MUNDIAL 4 HD
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/1324673
-#EXTINF:-1,ES|  GOL MUNDIAL 5 4K
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/1324672
-#EXTINF:-1,ES|  GOL MUNDIAL 5 HD
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/1324671
-#EXTINF:-1,ES| #VAMOS HD
+#EXTINF:-1 tvg-id="Vamos.es" tvg-name="ES| #VAMOS HD" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN-HICHAM/VAMOS.png" 
 http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107634
-#EXTINF:-1,ES| M.FORMULA1 HD
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107559
-#EXTINF:-1,ES| M.FORMULA1 HEVC
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/118999
-#EXTINF:-1,ES| #VAMOS HEVC
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/119027
-#EXTINF:-1,ES| EUROSPORT 1 HD
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107603
-#EXTINF:-1,ES| EUROSPORT1 HEVC
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/119017
-#EXTINF:-1,ES| EUROSPORT 2
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107604
-#EXTINF:-1,ES| ESPORT 3 CATALUNYA
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/840589
-#EXTINF:-1,ES| M. DEPORTES HD
+#EXTINF:-1 tvg-id="MovistarDeportes.es" tvg-name="ES| M. DEPORTES HD" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN-HICHAM/M-DEPORTES.png" 
 http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107577
-#EXTINF:-1,ES| M. DEPORTES HEVC
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/119008
-#EXTINF:-1,ES| M. DEPORTES1 HD
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107580
-#EXTINF:-1,ES| M. DEPORTES1 HEVC
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/119009
-#EXTINF:-1,ES| M. DEPORTES2
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107579
-#EXTINF:-1,ES| M. DEPORTES3 [LIVEEVENT]
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107578
-#EXTINF:-1,ES| M. DEPORTES4 (LIVEEVEENT)
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107581
-#EXTINF:-1,ES| M. DEPORTES5 (LIVEEVEENT)
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107582
-#EXTINF:-1,ES| M. DEPORTES6 (LIVEEVEENT)
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107583
-#EXTINF:-1,ES| M. DEPORTES7 (LIVEEVEENT)
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107584
-#EXTINF:-1,ES| M.LCAMPEONES HEVC
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/118998
-#EXTINF:-1,ES| M.LCAMPEONES HD
+#EXTINF:-1 tvg-id="LigaDeCampeones.es" tvg-name="ES| M.LCAMPEONES HD" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN-HICHAM/Movistar-Liga-de-Campeones.png" 
 http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107550
-#EXTINF:-1,ES| M.LCAMPEONES 2 FHD (1080P)
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/477162
-#EXTINF:-1,ES| M.LCAMPEON1 [LIVEEVENT]
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107553
-#EXTINF:-1,ES| M.LCAMPEON2 [LIVEEVENT]
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107552
-#EXTINF:-1,ES| M.LCAMPEON3 [LIVEEVENT]
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107551
-#EXTINF:-1,ES| M.LCAMPEON 4 [LIVEEVENT]
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107554
-#EXTINF:-1,ES| M.LCAMPEON 5 [LIVEEVENT]
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107555
-#EXTINF:-1,ES| M.LCAMPEONES 6 SD
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/915226
-#EXTINF:-1,ES| M.LCAMPEON 6 [LIVEEVENT]
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107556
-#EXTINF:-1,ES| M.LCAMPEON 7 [LIVEEVENT]
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107557
-#EXTINF:-1,ES| M.LCAMPEON 8 [LIVEEVENT]
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107558
-#EXTINF:-1,##### ESP DAZN TREX #####
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/477171
-#EXTINF:-1,ES| DAZN LALIGA SD
+#EXTINF:-1 tvg-id="DaznLaLiga.es" tvg-name="ES| DAZN LALIGA SD" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN-HICHAM/DAZN-LALIGA.png" 
 http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/986641
-#EXTINF:-1,ES| DAZN LALIGA HD
+#EXTINF:-1 tvg-id="DaznLaLiga.es" tvg-name="ES| DAZN LALIGA HD" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN-HICHAM/DAZN-LALIGA.png" 
 http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/986640
-#EXTINF:-1,ES| DAZN LALIGA 4K
+#EXTINF:-1 tvg-id="DaznLaLiga.es" tvg-name="ES| DAZN LALIGA 4K" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN-HICHAM/DAZN-LALIGA.png" 
 http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/986639
-#EXTINF:-1,ES| DAZN LALIGA 2 HD
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/1347433
-#EXTINF:-1,ES| DAZN FORMULA1 HD
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/978374
-#EXTINF:-1,ES| DAZN 1 HD
+#EXTINF:-1 tvg-id="DAZN1.es" tvg-name="ES| DAZN 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN-HICHAM/DAZN-1-Spain.png" 
 http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107638
-#EXTINF:-1,ES| DAZN [ LIVEEVENT]
+#EXTINF:-1 tvg-id="DAZN1.es" tvg-name="ES| DAZN [ LIVEEVENT]" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN-HICHAM/DAZN.png" 
 http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107637
-#EXTINF:-1,ES| DAZN 1
+#EXTINF:-1 tvg-id="DAZN1.es" tvg-name="ES| DAZN 1" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN-HICHAM/DAZN-1-Spain.png" 
 http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/477170
-#EXTINF:-1,ES| DAZN 2
+#EXTINF:-1 tvg-id="DAZN2.es" tvg-name="ES| DAZN 2" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN-HICHAM/DAZN-2-Spain.png" 
 http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/477169
-#EXTINF:-1,ES| DAZN 3
+#EXTINF:-1 tvg-id="DAZN3.es" tvg-name="ES| DAZN 3" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN-HICHAM/DAZN-3-Spain.png" 
 http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/477168
-#EXTINF:-1,ES| DAZN 4
+#EXTINF:-1 tvg-id="DAZN4.es" tvg-name="ES| DAZN 4" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN-HICHAM/DAZN-4-Spain.png" 
 http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/477167
-#EXTINF:-1,ES| DAZN 5
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/477166
-#EXTINF:-1,ES| DAZN 6
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/477165
-#EXTINF:-1,ES| DAZN 7
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/477164
-#EXTINF:-1,ES| DAZN 8
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/477163
-#EXTINF:-1,### PT DESPORTO TREX ###
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/118430
-#EXTINF:-1,PT| CANAL 11 HD
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107524
-#EXTINF:-1,PT| CANAL 11 HEVC
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/118466
-#EXTINF:-1,PT| SPORT TV + HD
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107437
-#EXTINF:-1,PT| SPORT TV+ HEVC
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/368058
-#EXTINF:-1,PT| SPORT TV 1 HD
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107436
-#EXTINF:-1,PT| SPORT TV 1 HEVC
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/118447
-#EXTINF:-1,PT| SPORT TV 1 SD
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/148671
-#EXTINF:-1,PT| SPORT TV 2 HD
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107435
-#EXTINF:-1,PT| SPORT TV 2 HEVC
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/118446
-#EXTINF:-1,PT| SPORT TV 2 SD
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/148670
-#EXTINF:-1,PT| SPORT TV 3 HD
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107434
-#EXTINF:-1,PT| SPORT TV 3 HEVC
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/118445
-#EXTINF:-1,PT| SPORT TV 3 SD
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/148669
-#EXTINF:-1,PT| SPORT TV 4 HD
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107433
-#EXTINF:-1,PT| SPORT TV 4 SD
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/148668
-#EXTINF:-1,PT| SPORT TV 5 HD
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/148667
-#EXTINF:-1,PT| SPORT TV 6 FHD
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/712739
-#EXTINF:-1,PT| ELEVEN SPORTS 1 HD
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107495
-#EXTINF:-1,PT| ELEVEN SPORTS 1 HEVC
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/118459
-#EXTINF:-1,PT| ELEVEN SPORTS 2 HD
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107494
-#EXTINF:-1,PT| ELEVEN SPORTS 2 HEVC
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/118458
-#EXTINF:-1,PT| ELEVEN SPORTS 3 HD
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/122484
-#EXTINF:-1,PT| ELEVEN SPORTS 3
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107493
-#EXTINF:-1,PT| ELEVEN SPORTS 4 HD
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/122485
-#EXTINF:-1,PT| ELEVEN SPORTS 4
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107492
-#EXTINF:-1,PT| ELEVEN SPORTS 5 HD
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/122486
-#EXTINF:-1,PT| ELEVEN SPORTS 5
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107491
-#EXTINF:-1,PT| ELEVEN SPORTS 6
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107490
-#EXTINF:-1,PT| BENFICA TV HD
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/983567
-#EXTINF:-1,PT| BTV 1 HD
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107511
-#EXTINF:-1,PT| BTV HEVC
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/118461
-#EXTINF:-1,PT| PFC
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107456
-#EXTINF:-1,PT| PFC (NA)
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/156351
-#EXTINF:-1,PT| TVI HD
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107525
-#EXTINF:-1,PT| TVI HEVC
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/118467
-#EXTINF:-1,PT| GLOBO MEO
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107478
-#EXTINF:-1,PT| GLOBO FHD
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107409
-#EXTINF:-1,PT| GLOBO NOW
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107477
-#EXTINF:-1,PT| TV RECORD
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107424
-#EXTINF:-1,##### ESP GENERAL TREX #####
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/471506
-#EXTINF:-1,ES| LA 1 HD
+#EXTINF:-1 tvg-id="LA1.es" tvg-name="ES| LA 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN-HICHAM/LA-1.png" 
 http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107594
-#EXTINF:-1,ES| LA 1 HEVC
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/119013
-#EXTINF:-1,ES| LA 2
+#EXTINF:-1 tvg-id="LA2.es" tvg-name="ES| LA 2" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN-HICHAM/LA-2.png" 
 http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107593
-#EXTINF:-1,ES| ANTENA 3 HD
+#EXTINF:-1 tvg-id="Antena3.es" tvg-name="ES| ANTENA 3 HD" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN-HICHAM/ANTENA-3.png" 
 http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107631
-#EXTINF:-1,ES| ANTENA 3 HEVC
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/119025
-#EXTINF:-1,ES| ANTENA 3 INT.
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/136724
-#EXTINF:-1,ES| CUATRO HD
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="ES| CUATRO HD" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN-HICHAM/CUATRO.png" 
 http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107610
-#EXTINF:-1,ES| CUATRO HEVC
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/119018
-#EXTINF:-1,ES| TELECINCO HD
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="ES| TELECINCO HD" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN-HICHAM/TELECINCO.png" 
 http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107534
-#EXTINF:-1,ES| TELECINCO HEVC
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/118990
-#EXTINF:-1,ES| LA SEXTA HD
+#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="ES| LA SEXTA HD" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN-HICHAM/LA-SEXTA.png" 
 http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107592
-#EXTINF:-1,ES| LA SEXTA HEVC
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/119012
-#EXTINF:-1,ES| TVGA HD
+#EXTINF:-1 tvg-id="TVGalicia.es" tvg-name="ES| TVGA HD" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN-HICHAM/TVGA.png" 
 http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/871352
-#EXTINF:-1,ES| NEOX
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107544
-#EXTINF:-1,ES| NOVA
+#EXTINF:-1 tvg-id="Nova.es" tvg-name="ES| NOVA" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN-HICHAM/NOVA.png" 
 http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107540
-#EXTINF:-1,ES| MEGA HD
+#EXTINF:-1 tvg-id="Mega.es" tvg-name="ES| MEGA HD" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN-HICHAM/MEGA.png" 
 http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107645
-#EXTINF:-1,ES| 24 HORAS HD
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/835061
-#EXTINF:-1,ES| 24 HORAS
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107633
-#EXTINF:-1,ES| CANAL SUR A.
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107617
-#EXTINF:-1,ES| COSMO HD
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107612
-#EXTINF:-1,ES| COSMO HEVC
-http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/119019
-#EXTINF:-1,=LA= LATI =ES=
-http://mol-2.com:8080/1XxHu3V2AVaCeuw/Vdbvd566csuuhaR/55526
-#EXTINF:-1,MX: HBO LATINO MX
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/1074
-#EXTINF:-1,MX: HBO LATINO US
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/1075
-#EXTINF:-1,MX: HBO MUNDI
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/1077
-#EXTINF:-1,MX: HBO POP
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/1159
-#EXTINF:-1,MX: HBO SIGNATURE
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/1158
-#EXTINF:-1,MX: HBO XTREME
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/1085
-#EXTINF:-1,MX: HBO2
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/1157
-#EXTINF:-1,MX: ESPN
+#EXTINF:-1 tvg-id="Canal11.pt" tvg-name="PT| CANAL 11 HD" tvg-logo="http://logo.protv.cc/piconsnew/canal11hd.png" 
+http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107524
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="PT| SPORT TV + HD" tvg-logo="http://logo.protv.cc/piconsnew/sporttvplus.png" 
+http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107437
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="PT| SPORT TV 1 HD" tvg-logo="http://logo.protv.cc/piconsnew/sporttv1.png" 
+http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107436
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="PT| SPORT TV 2 HD" tvg-logo="http://logo.protv.cc/piconsnew/sporttv2.png" 
+http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107435
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="PT| SPORT TV 3 HD" tvg-logo="http://logo.protv.cc/piconsnew/sporttv3.png" 
+http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107434
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="PT| SPORT TV 4 HD" tvg-logo="http://logo.protv.cc/piconsnew/sporttv4.png" 
+http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107433
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="PT| SPORT TV 5 HD" tvg-logo="http://logo.protv.cc/piconsnew/sporttv5.png" 
+http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/148667
+#EXTINF:-1 tvg-id="SportTV6.pt" tvg-name="PT| SPORT TV 6 FHD" tvg-logo="http://logo.protv.cc/piconsnew/sporttv6hd.png" 
+http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/712739
+#EXTINF:-1 tvg-id="ElevenSports1.pt" tvg-name="PT| ELEVEN SPORTS 1 HD" tvg-logo="http://logo.protv.cc/piconsnew/elevensports1.png" 
+http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107495
+#EXTINF:-1 tvg-id="ElevenSports2.pt" tvg-name="PT| ELEVEN SPORTS 2 HD" tvg-logo="http://logo.protv.cc/piconsnew/elevensports2.png" 
+http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107494
+#EXTINF:-1 tvg-id="ElevenSports3.pt" tvg-name="PT| ELEVEN SPORTS 3 HD" tvg-logo="http://logo.protv.cc/piconsnew/elevensports3.png" 
+http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/122484
+#EXTINF:-1 tvg-id="ElevenSports3.pt" tvg-name="PT| ELEVEN SPORTS 3" tvg-logo="http://logo.protv.cc/piconsnew/elevensports3.png" 
+http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107493
+#EXTINF:-1 tvg-id="ElevenSports4.pt" tvg-name="PT| ELEVEN SPORTS 4 HD" tvg-logo="http://logo.protv.cc/piconsnew/elevensports4.png" 
+http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/122485
+#EXTINF:-1 tvg-id="ElevenSports4.pt" tvg-name="PT| ELEVEN SPORTS 4" tvg-logo="http://logo.protv.cc/piconsnew/elevensports4.png" 
+http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107492
+#EXTINF:-1 tvg-id="ElevenSports5.pt" tvg-name="PT| ELEVEN SPORTS 5 HD" tvg-logo="http://logo.protv.cc/piconsnew/elevensports5.png" 
+http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/122486
+#EXTINF:-1 tvg-id="ElevenSports5.pt" tvg-name="PT| ELEVEN SPORTS 5" tvg-logo="http://logo.protv.cc/piconsnew/elevensports5.png" 
+http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107491
+#EXTINF:-1 tvg-id="BenficaTV1.pt" tvg-name="PT| BTV 1 HD" tvg-logo="http://logo.protv.cc/piconsnew/btv1.png" 
+http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107511
+#EXTINF:-1 tvg-id="" tvg-name="##### lati #####" tvg-logo="http://go4.pw/EUROPE/FRANCE/flag_france.png"
+http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/1174
+#EXTINF:-1 tvg-id="I1553.110964.schedulesdirect.org" tvg-name="MX: ESPN" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/espn_mx.png" 
 http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/1048
-#EXTINF:-1,MX: ESPN DEPORTES
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/1049
-#EXTINF:-1,MX: ESPN EXTRA
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/1147
-#EXTINF:-1,MX: ESPN2
+#EXTINF:-1 tvg-id="I1550.10180.schedulesdirect.org" tvg-name="MX: ESPN2" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/espn2_mx.png" 
 http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/1050
-#EXTINF:-1,MX: ESPN3
+#EXTINF:-1 tvg-id="I1559.79049.schedulesdirect.org" tvg-name="MX: ESPN3" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/espn_3.png" 
 http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/1161
-#EXTINF:-1,MX: FOX DEPORTES
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/1022
-#EXTINF:-1,MX: FOX SPORTS
+#EXTINF:-1 tvg-id="I3313.71914.schedulesdirect.org" tvg-name="MX: ESPN DEPORTES" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/espn_deportes.png" 
+http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/1049
+#EXTINF:-1 tvg-id="I605.30392.schedulesdirect.org" tvg-name="MX: FOX SPORTS" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/fox_sports.png" 
 http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/1063
-#EXTINF:-1,MX: FOX SPORTS 2
+#EXTINF:-1 tvg-id="I1305.71328.schedulesdirect.org" tvg-name="MX: FOX SPORTS 2" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/fox_sports_2.png" 
 http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/1065
-#EXTINF:-1,MX: FOX SPORTS 3
+#EXTINF:-1 tvg-id="I307.47374.schedulesdirect.org" tvg-name="MX: FOX SPORTS 3" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/fox_sports_3.png" 
 http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/1066
-#EXTINF:-1,MX: FOX SPORTS PREMIUM MX
+#EXTINF:-1 tvg-id="I1310.123582.schedulesdirect.org" tvg-name="MX: FOX SPORTS PREMIUM MX" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/fox_sports_premium_mx.png" 
 http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/1055
-#EXTINF:-1,MX: GOL TV
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/1070
-#EXTINF:-1,MX: SKY SPORTS A MEX
+#EXTINF:-1 tvg-id="NONE" tvg-name="MX: SKY SPORTS A MEX" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/sky_sport.png" 
 http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/1148
-#EXTINF:-1,MX: SKY SPORTS C MEX
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/1156
-#EXTINF:-1,MX: SKY SPORTS D MEX
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/1185
-#EXTINF:-1,MX: TNT SPORTS
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/1122
-#EXTINF:-1,MX: TUDN MEXICO
+#EXTINF:-1 tvg-id="I1547.65129.schedulesdirect.org" tvg-name="MX: TUDN MEXICO" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/tudn_mexico.png" 
 http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/1113
-#EXTINF:-1,MX: TUDN USA
+#EXTINF:-1 tvg-id="I856.77033.schedulesdirect.org" tvg-name="MX: TUDN USA" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/tudn_usa.png" 
 http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/1131
-#EXTINF:-1,MX: TVC DEPORTES
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/1125
-#EXTINF:-1,MX: TVC DEPORTES 2
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/1126
-#EXTINF:-1,MX: TYC SPORTS
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/1127
-#EXTINF:-1,MX: GALAVISION
+#EXTINF:-1 tvg-id="I273.68367.schedulesdirect.org" tvg-name="MX: GALAVISION" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/galavision.png" 
 http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/1069
-#EXTINF:-1,MX: UNIMAS
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/1128
-#EXTINF:-1,MX: UNIVERSO
+#EXTINF:-1 tvg-id="I835.10239.schedulesdirect.org" tvg-name="MX: TELEMUNDO" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/telemundo.png" 
+http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/1116
+#EXTINF:-1 tvg-id="I3009.14791.schedulesdirect.org" tvg-name="MX: UNIVERSO" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/universo.png" 
 http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/1130
-#EXTINF:-1,MX: UNIVISION
+#EXTINF:-1 tvg-id="I827.11118.schedulesdirect.org" tvg-name="MX: UNIVISION" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/univision.png" 
 http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/1132
-#EXTINF:-1,*MX: ESPN
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/2048
-#EXTINF:-1,*MX: ESPN DEPORTES
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/2049
-#EXTINF:-1,*MX: ESPN EXTRA
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/2147
-#EXTINF:-1,*MX: ESPN2
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/2050
-#EXTINF:-1,*MX: ESPN3
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/2161
-#EXTINF:-1,*MX: FOX DEPORTES
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/2022
-#EXTINF:-1,*MX: FOX SPORTS
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/2063
-#EXTINF:-1,*MX: FOX SPORTS 2
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/2065
-#EXTINF:-1,*MX: FOX SPORTS 3
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/2066
-#EXTINF:-1,*MX: FOX SPORTS PREMIUM MX
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/2055
-#EXTINF:-1,*MX: GOL TV
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/2070
-#EXTINF:-1,*MX: SKY SPORTS A MEX
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/2148
-#EXTINF:-1,*MX: SKY SPORTS C MEX
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/2156
-#EXTINF:-1,*MX: SKY SPORTS D MEX
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/2185
-#EXTINF:-1,*MX: TUDN MEXICO
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/2113
-#EXTINF:-1,*MX: TUDN USA
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/2131
-#EXTINF:-1,*MX: TVC
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/2124
-#EXTINF:-1,*MX: TVC DEPORTES
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/2125
-#EXTINF:-1,*MX: TVC DEPORTES 2
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/2126
-#EXTINF:-1,*MX: UNIVERSO
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/2130
-#EXTINF:-1,*MX: UNIVISION
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/2132
-#EXTINF:-1,MX: FOX DEPORTES**
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/4022
-#EXTINF:-1,MX: FOX SPORTS 2**
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/4065
-#EXTINF:-1,MX: FOX SPORTS 3**
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/4066
-#EXTINF:-1,MX: FOX SPORTS PREMIUM MX**
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/4055
-#EXTINF:-1,MX: FOX SPORTS**
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/4063
-#EXTINF:-1,MX: FX CENTRAL**
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/4067
-#EXTINF:-1,MX: GALAVISION**
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/4069
-#EXTINF:-1,MX: HBO LATINO MX**
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/4074
-#EXTINF:-1,MX: HBO MUNDI**
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/4077
-#EXTINF:-1,MX: HBO PLUS**
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/4207
-#EXTINF:-1,MX: HBO POP**
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/4159
-#EXTINF:-1,MX: HBO SIGNATURE**
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/4158
-#EXTINF:-1,MX: HBO XTREME**
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/4085
-#EXTINF:-1,MX: HBO2**
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/4157
-#EXTINF:-1,MX: HERALDO TV**
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/4187
-#EXTINF:-1,MX: HGTV**
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/4176
-#EXTINF:-1,MX: HISTORY 2**
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/4150
-#EXTINF:-1,MX: HISTORY CHANNEL LATINO**
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/4078
-#EXTINF:-1,MX: HOLA TV**
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/4080
-#EXTINF:-1,MX: I-SAT**
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/4192
-#EXTINF:-1,MX: IMAGEN**
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/4081
-#EXTINF:-1,MX: INVESTIGATION DISCOVERY**
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/4082
-#EXTINF:-1,MX: LAS ESTRELLAS -2**
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/4152
-#EXTINF:-1,MX: LAS ESTRELLAS**
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/4083
-#EXTINF:-1,MX: LIFETIME**
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/4153
-#EXTINF:-1,MX: MEXICO TRAVEL CHANNEL**
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/4205
-#EXTINF:-1,MX: MILENIO TV**
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/4139
-#EXTINF:-1,MX: TELEMUNDO**
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/4116
-#EXTINF:-1,MX: TUDN MEXICO**
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/4113
-#EXTINF:-1,MX: TUDN USA**
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/4131
-#EXTINF:-1,MX: TVE TELEVISIÓN ESPAÑOLA**
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/4181
-#EXTINF:-1,MX: TYC SPORTS**
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/4127
-#EXTINF:-1,MX: UNIVISION**
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/4132
-#EXTINF:-1,#### MAGNUN ####
-http://bigo12.xyz:80/D5970788A475/592526134081/184020
-#EXTINF:-1,US - UNIVISION  HD
-http://bigo12.xyz:80/D5970788A475/592526134081/214650
-#EXTINF:-1,US - UNIMAS HD [NEW YORK]
-http://bigo12.xyz:80/D5970788A475/592526134081/237495
-#EXTINF:-1,##### LATINO - GENERAL #####
-http://bigo12.xyz:80/D5970788A475/592526134081/30681
-#EXTINF:-1,LATINO - GALAVISION ᵛᶦᵖ HD
-http://bigo12.xyz:80/D5970788A475/592526134081/195243
-#EXTINF:-1,LATINO - ESPN Deportes ᵛᶦᵖ ◉
+#EXTINF:-1 tvg-id="I1235.87004.schedulesdirect.org" tvg-name="MX: AE LATINO" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/ae_latino.png" 
+http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/1001
+#EXTINF:-1 tvg-id="I1269.107374.schedulesdirect.org" tvg-name="MX: ANIMAL PLANET" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/animal_planet.png" 
+http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/1004
+#EXTINF:-1 tvg-id="I225.59582.schedulesdirect.org" tvg-name="MX: DISCOVERY H AND H" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/discovery_h_and_h.png" 
+http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/1036
+#EXTINF:-1 tvg-id="I1244.74420.schedulesdirect.org" tvg-name="MX: DISCOVERY TLC" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/discovery_tlc.png" 
+http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/1041
+#EXTINF:-1 tvg-id="I1264.80374.schedulesdirect.org" tvg-name="MX: HISTORY 2" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/history_2.png" 
+http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/1150
+#EXTINF:-1 tvg-id="I1263.70669.schedulesdirect.org" tvg-name="MX: HISTORY CHANNEL LATINO" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/history_channel_latino.png" 
+http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/1078
+#EXTINF:-1 tvg-id="I1224.25793.schedulesdirect.org" tvg-name="MX: INVESTIGATION DISCOVERY" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/investigation_discovery.png" 
+http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/1082
+#EXTINF:-1 tvg-id="I280.25068.schedulesdirect.org" tvg-name="MX: NAT GEO LATINO" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/nat_geo_latino.png" 
+http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/1092
+#EXTINF:-1 tvg-id="NONE" tvg-name="MX: NAT GEO WILD" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/nat_geo_wild.png" 
+http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/1093
+#EXTINF:-1 tvg-id="" tvg-name="##### bigo #####" tvg-logo="http://go4.pw/EUROPE/FRANCE/flag_france.png" 
+http://bigo12.xyz:80/D5970788A475/592526134081/57008
+#EXTINF:-1 tvg-id="espndeportes.us" tvg-name="LATINO - ESPN Deportes ᵛᶦᵖ ◉" tvg-logo="http://go4.pw/AMERICA/USA/ESPN.png" 
 http://bigo12.xyz:80/D5970788A475/592526134081/200139
-#EXTINF:-1,LATINO - Univision Deportes ᵛᶦᵖ ◉
+#EXTINF:-1 tvg-id="univisiondeportes.us" tvg-name="LATINO - Univision Deportes ᵛᶦᵖ ◉" tvg-logo="http://go4.pw/LATINO/UNIVISION.png" 
 http://bigo12.xyz:80/D5970788A475/592526134081/200138
-#EXTINF:-1,LATINO - Fox Deportes ᵛᶦᵖ ◉
+#EXTINF:-1 tvg-id="foxdeportes.us" tvg-name="LATINO - Fox Deportes ᵛᶦᵖ ◉" tvg-logo="http://go4.pw/LATINO/FOX_Deportes.png" 
 http://bigo12.xyz:80/D5970788A475/592526134081/200140
-#EXTINF:-1,LATINO - NBC UNIVERSO
-http://bigo12.xyz:80/D5970788A475/592526134081/194525
-#EXTINF:-1,LATINO - TELEMUNDO
-http://bigo12.xyz:80/D5970788A475/592526134081/30680
-#EXTINF:-1,LATINO - UNIVISION
-http://bigo12.xyz:80/D5970788A475/592526134081/30676
-#EXTINF:-1,LATINO - WIN SPORT HD
-http://bigo12.xyz:80/D5970788A475/592526134081/30647
-#EXTINF:-1,LATINO - WIN SPORT PLUS HD
-http://bigo12.xyz:80/D5970788A475/592526134081/139331
-#EXTINF:-1,LATINO - ESPN
-http://bigo12.xyz:80/D5970788A475/592526134081/30583
-#EXTINF:-1,LATINO - ESPN 2.
-http://bigo12.xyz:80/D5970788A475/592526134081/30582
-#EXTINF:-1,LATINO - ESPN 3
-http://bigo12.xyz:80/D5970788A475/592526134081/30581
-#EXTINF:-1,LATINO - FOX SPORT
-http://bigo12.xyz:80/D5970788A475/592526134081/30580
-#EXTINF:-1,LATINO - FOX SPORT 2
-http://bigo12.xyz:80/D5970788A475/592526134081/30579
-#EXTINF:-1,LATINO - TUDN | HD
-http://bigo12.xyz:80/D5970788A475/592526134081/200868
-#EXTINF:-1,LATINO - TUDN LIVE 1
-http://bigo12.xyz:80/D5970788A475/592526134081/303544
-#EXTINF:-1,LATINO - TUDN LIVE 2
-http://bigo12.xyz:80/D5970788A475/592526134081/303545
-#EXTINF:-1,LATINO - TUDN LIVE 3
-http://bigo12.xyz:80/D5970788A475/592526134081/303546
-#EXTINF:-1,LATINO - TUDN LIVE 4
-http://bigo12.xyz:80/D5970788A475/592526134081/303547
-#EXTINF:-1,LATINO - TUDN LIVE 5
-http://bigo12.xyz:80/D5970788A475/592526134081/303548
-#EXTINF:-1,LATINO - TUDN LIVE 6
-http://bigo12.xyz:80/D5970788A475/592526134081/303549
-#EXTINF:-1,LATINO - UNIVISION DEPORTES
-http://bigo12.xyz:80/D5970788A475/592526134081/69089
-#EXTINF:-1,LATINO - UNIMAS
-http://bigo12.xyz:80/D5970788A475/592526134081/69088
-#EXTINF:-1,LATINO - TDN
-http://bigo12.xyz:80/D5970788A475/592526134081/69085
-#EXTINF:-1,LATINO - CLARO SPORT 2
-http://bigo12.xyz:80/D5970788A475/592526134081/69074
-#EXTINF:-1,LATINO - CLARO SPORT
-http://bigo12.xyz:80/D5970788A475/592526134081/69073
-#EXTINF:-1,##### ARGENTINA - GENERAL #####
-http://bigo12.xyz:80/D5970788A475/592526134081/30759
-#EXTINF:-1,ARG - AMERICA TV HD ᵛᶦᵖ ◉
+#EXTINF:-1 tvg-id="univision23wltv.us" tvg-name="LATINO - UNIVISION (MIAMI) | HD" tvg-logo="http://go4.pw/AMERICA/USA/Univision-1-svg.png" 
+http://bigo12.xyz:80/D5970788A475/592526134081/194520
+#EXTINF:-1 tvg-id="americatv.ar" tvg-name="ARG - AMERICA TV HD ᵛᶦᵖ ◉" tvg-logo="http://go4.pw/LATINO/ARGENTINA/AMERICANTV.png" 
 http://bigo12.xyz:80/D5970788A475/592526134081/197715
-#EXTINF:-1,ARG - TV PUBLICA ᵛᶦᵖ
-http://bigo12.xyz:80/D5970788A475/592526134081/216084
-#EXTINF:-1,ARG - TELEFE HD ᵛᶦᵖ ◉  
+#EXTINF:-1 tvg-id="telefe.ar" tvg-name="ARG - TELEFE HD ᵛᶦᵖ ◉  " tvg-logo="http://go4.pw/LATINO/ARGENTINA/TELEFETV.png" 
 http://bigo12.xyz:80/D5970788A475/592526134081/197716
-#EXTINF:-1,ARG - TVP HD ᵛᶦᵖ
-http://bigo12.xyz:80/D5970788A475/592526134081/197717
-#EXTINF:-1,ARG - EL TRECE HD ᵛᶦᵖ ◉
+#EXTINF:-1 tvg-id="el13.ar" tvg-name="ARG - EL TRECE HD ᵛᶦᵖ ◉" tvg-logo="http://go4.pw/LATINO/ARGENTINA/ELTRECE.png" 
 http://bigo12.xyz:80/D5970788A475/592526134081/197719
-#EXTINF:-1,ARG - EL NUEVE HD ᵛᶦᵖ
-http://bigo12.xyz:80/D5970788A475/592526134081/197718
-#EXTINF:-1,ARG - CANAL CIUDAD ᵛᶦᵖ
-http://bigo12.xyz:80/D5970788A475/592526134081/197721
-#EXTINF:-1,ARG - C5N ᵛᶦᵖ
-http://bigo12.xyz:80/D5970788A475/592526134081/197725
-#EXTINF:-1,ARG - A24 HD ᵛᶦᵖ
-http://bigo12.xyz:80/D5970788A475/592526134081/197726
-#EXTINF:-1,ARG - 26TV ᵛᶦᵖ
-http://bigo12.xyz:80/D5970788A475/592526134081/197728
-#EXTINF:-1,ARG - TN HD ᵛᶦᵖ
-http://bigo12.xyz:80/D5970788A475/592526134081/197729
-#EXTINF:-1,ARG - TYC SPORTS HD ᵛᶦᵖ
-http://bigo12.xyz:80/D5970788A475/592526134081/197732
-#EXTINF:-1,ARG - TNT SPORTS HD ᵛᶦᵖ
+#EXTINF:-1 tvg-id="tntsports.ar" tvg-name="ARG - TNT SPORTS HD ᵛᶦᵖ" tvg-logo="http://go4.pw/LATINO/ARGENTINA/TNT.png" 
 http://bigo12.xyz:80/D5970788A475/592526134081/197733
-#EXTINF:-1,ARG - ESPN PREMIUM ◉
+#EXTINF:-1 tvg-id="foxsports.ar" tvg-name="ARG - ESPN PREMIUM ◉" tvg-logo="http://go4.pw/LATINO/ARGENTINA/FOXSPOTSPREMUIM.png" 
 http://bigo12.xyz:80/D5970788A475/592526134081/30758
-#EXTINF:-1,ARG - 13 MAX
-http://bigo12.xyz:80/D5970788A475/592526134081/30757
-#EXTINF:-1,ARG - A24
-http://bigo12.xyz:80/D5970788A475/592526134081/30756
-#EXTINF:-1,ARG - AMERICA TV
-http://bigo12.xyz:80/D5970788A475/592526134081/30755
-#EXTINF:-1,ARG - C5N
-http://bigo12.xyz:80/D5970788A475/592526134081/30754
-#EXTINF:-1,ARG - CANAL 26
-http://bigo12.xyz:80/D5970788A475/592526134081/30752
-#EXTINF:-1,ARG - CRONICA
-http://bigo12.xyz:80/D5970788A475/592526134081/30745
-#EXTINF:-1,ARG - DIRECT TV SPORTS
-http://bigo12.xyz:80/D5970788A475/592526134081/30743
-#EXTINF:-1,ARG - DIRECT TV SPORTS 2
-http://bigo12.xyz:80/D5970788A475/592526134081/30742
-#EXTINF:-1,ARG - DIRECT TV SPORTS PLUS
-http://bigo12.xyz:80/D5970788A475/592526134081/30741
-#EXTINF:-1,ARG - EL TRECE
-http://bigo12.xyz:80/D5970788A475/592526134081/30740
-#EXTINF:-1,ARG - ELNUEVE
-http://bigo12.xyz:80/D5970788A475/592526134081/30739
-#EXTINF:-1,ARG - ESPN
-http://bigo12.xyz:80/D5970788A475/592526134081/30737
-#EXTINF:-1,ARG - ESPN 2
-http://bigo12.xyz:80/D5970788A475/592526134081/30736
-#EXTINF:-1,ARG - ESPN 3
-http://bigo12.xyz:80/D5970788A475/592526134081/30735
-#EXTINF:-1,ARG - FOX SPORT
-http://bigo12.xyz:80/D5970788A475/592526134081/149797
-#EXTINF:-1,ARG - FOX SPORT 2
-http://bigo12.xyz:80/D5970788A475/592526134081/30733
-#EXTINF:-1,ARG - FOX SPORT 3
-http://bigo12.xyz:80/D5970788A475/592526134081/30732
-#EXTINF:-1,ARG - LN+
-http://bigo12.xyz:80/D5970788A475/592526134081/30731
-#EXTINF:-1,ARG - MUSIC TOP
-http://bigo12.xyz:80/D5970788A475/592526134081/30730
-#EXTINF:-1,ARG - TELEFE
-http://bigo12.xyz:80/D5970788A475/592526134081/30727
-#EXTINF:-1,ARG - TN
-http://bigo12.xyz:80/D5970788A475/592526134081/30724
-#EXTINF:-1,ARG - TNT 
-http://bigo12.xyz:80/D5970788A475/592526134081/30723
-#EXTINF:-1,ARG - TV PUBLICA
-http://bigo12.xyz:80/D5970788A475/592526134081/30721
-#EXTINF:-1,ARG - TYC
-http://bigo12.xyz:80/D5970788A475/592526134081/30720
-#EXTINF:-1,ARG - ESPN+
-http://bigo12.xyz:80/D5970788A475/592526134081/69178
-#EXTINF:-1,ARG - PAKAPAKA
-http://bigo12.xyz:80/D5970788A475/592526134081/69176
-#EXTINF:-1,ARG - CINE AR
-http://bigo12.xyz:80/D5970788A475/592526134081/69174
-#EXTINF:-1,##### |COLOMBIA| GENERAL #####
-http://bigo12.xyz:80/D5970788A475/592526134081/30709
-#EXTINF:-1,CO - Caracol ᵛᶦᵖ ◉ 
-http://bigo12.xyz:80/D5970788A475/592526134081/190239
-#EXTINF:-1,CO - Caracol 2 ᵛᶦᵖ
-http://bigo12.xyz:80/D5970788A475/592526134081/190240
-#EXTINF:-1,CO - CARACOL INTERNACIONAL ᵛᶦᵖ
-http://bigo12.xyz:80/D5970788A475/592526134081/192830
-#EXTINF:-1,CO - RCN ᵛᶦᵖ ◉ 
-http://bigo12.xyz:80/D5970788A475/592526134081/190242
-#EXTINF:-1,CO - RCN Novelas ᵛᶦᵖ ◉ 
-http://bigo12.xyz:80/D5970788A475/592526134081/190244
-#EXTINF:-1,CO - NTN24 ᵛᶦᵖ ◉ 
-http://bigo12.xyz:80/D5970788A475/592526134081/190246
-#EXTINF:-1,CO - El Tiempo ᵛᶦᵖ
-http://bigo12.xyz:80/D5970788A475/592526134081/190247
-#EXTINF:-1,CO - ZOOM ᵛᶦᵖ
-http://bigo12.xyz:80/D5970788A475/592526134081/192832
-#EXTINF:-1,CO - Canal Uno ᵛᶦᵖ
-http://bigo12.xyz:80/D5970788A475/592526134081/190248
-#EXTINF:-1,CO - CityTV ᵛᶦᵖ
-http://bigo12.xyz:80/D5970788A475/592526134081/190249
-#EXTINF:-1,CO - EL TRECE PLUS ᵛᶦᵖ
-http://bigo12.xyz:80/D5970788A475/592526134081/330200
-#EXTINF:-1,CO -  Señal Colombia ᵛᶦᵖ
-http://bigo12.xyz:80/D5970788A475/592526134081/191361
-#EXTINF:-1,CO - Teleantioquia ᵛᶦᵖ
-http://bigo12.xyz:80/D5970788A475/592526134081/190251
-#EXTINF:-1,CO - Telemedellin ᵛᶦᵖ
-http://bigo12.xyz:80/D5970788A475/592526134081/190253
-#EXTINF:-1,CO - Telecaribe ᵛᶦᵖ
-http://bigo12.xyz:80/D5970788A475/592526134081/190252
-#EXTINF:-1,CO - Telepacifico ᵛᶦᵖ
-http://bigo12.xyz:80/D5970788A475/592526134081/190254
-#EXTINF:-1,CO - TELEISLAS ᵛᶦᵖ
-http://bigo12.xyz:80/D5970788A475/592526134081/330201
-#EXTINF:-1,CO - TELECAFE ᵛᶦᵖ
-http://bigo12.xyz:80/D5970788A475/592526134081/330202
-#EXTINF:-1,CO - TV AGRO ᵛᶦᵖ
-http://bigo12.xyz:80/D5970788A475/592526134081/213027
-#EXTINF:-1,CO - COSMOVISION ᵛᶦᵖ
-http://bigo12.xyz:80/D5970788A475/592526134081/192833
-#EXTINF:-1,CO - TeleVid ᵛᶦᵖ
-http://bigo12.xyz:80/D5970788A475/592526134081/190257
-#EXTINF:-1,CO - Canal Capital ᵛᶦᵖ
-http://bigo12.xyz:80/D5970788A475/592526134081/190255
-#EXTINF:-1,CO - Canal Institucional ᵛᶦᵖ
-http://bigo12.xyz:80/D5970788A475/592526134081/190256
-#EXTINF:-1,CO - Winsports ᵛᶦᵖ ◉ 
-http://bigo12.xyz:80/D5970788A475/592526134081/190259
-#EXTINF:-1,CO - La Kalle ᵛᶦᵖ
-http://bigo12.xyz:80/D5970788A475/592526134081/190258
-#EXTINF:-1,CO - Winsports Plus ᵛᶦᵖ ◉ 
-http://bigo12.xyz:80/D5970788A475/592526134081/190260
-#EXTINF:-1,CO - CRISTOVISION ᵛᶦᵖ
-http://bigo12.xyz:80/D5970788A475/592526134081/330205
-#EXTINF:-1,CO - ESPN COLOMBIA ᵛᶦᵖ ◉
-http://bigo12.xyz:80/D5970788A475/592526134081/330199
-#EXTINF:-1,CO - CAPITAL HD ᵛᶦᵖ
-http://bigo12.xyz:80/D5970788A475/592526134081/187640
-#EXTINF:-1,CO - CABLENOTICIAS
-http://bigo12.xyz:80/D5970788A475/592526134081/30708
-#EXTINF:-1,CO - CARACOL
-http://bigo12.xyz:80/D5970788A475/592526134081/30706
-#EXTINF:-1,CO - CITY TV
-http://bigo12.xyz:80/D5970788A475/592526134081/30705
-#EXTINF:-1,CO - RCN
-http://bigo12.xyz:80/D5970788A475/592526134081/30703
-#EXTINF:-1,CO - RCN HD
-http://bigo12.xyz:80/D5970788A475/592526134081/30702
-#EXTINF:-1,CO - RCN NOVELAS
-http://bigo12.xyz:80/D5970788A475/592526134081/30701
-#EXTINF:-1,CO - SENAL COLOMBIA
-http://bigo12.xyz:80/D5970788A475/592526134081/30700
-#EXTINF:-1,CO - TELE MEDELLIN
-http://bigo12.xyz:80/D5970788A475/592526134081/30699
-#EXTINF:-1,CO - TELEPACIFICO
-http://bigo12.xyz:80/D5970788A475/592526134081/30697
-#EXTINF:-1,CO - TRECE
-http://bigo12.xyz:80/D5970788A475/592526134081/69190
-#EXTINF:-1,CO - CARACOL INTERNACIONAL
-http://bigo12.xyz:80/D5970788A475/592526134081/69188
-#EXTINF:-1,CO - CARACOL HD2
-http://bigo12.xyz:80/D5970788A475/592526134081/69187
-#EXTINF:-1,CO - Cali TV
-http://bigo12.xyz:80/D5970788A475/592526134081/79020
-#EXTINF:-1,CO - Cali TV
-http://bigo12.xyz:80/D5970788A475/592526134081/79021
-#EXTINF:-1,CO - Tele Medellin
-http://bigo12.xyz:80/D5970788A475/592526134081/79037
-#EXTINF:-1,CO - Teleislas
-http://bigo12.xyz:80/D5970788A475/592526134081/79043
-#EXTINF:-1,##### ECUADOR - GENERAL #####
-http://bigo12.xyz:80/D5970788A475/592526134081/30691
-#EXTINF:-1,EC - GamaTV ᵛᶦᵖ
-http://bigo12.xyz:80/D5970788A475/592526134081/190261
-#EXTINF:-1,EC - TeleAmazonas ᵛᶦᵖ
-http://bigo12.xyz:80/D5970788A475/592526134081/190262
-#EXTINF:-1,EC - EcuadorTV ᵛᶦᵖ
-http://bigo12.xyz:80/D5970788A475/592526134081/190264
-#EXTINF:-1,EC - Ecuavisa ᵛᶦᵖ
-http://bigo12.xyz:80/D5970788A475/592526134081/190265
-#EXTINF:-1,EC - Ecuador TC ᵛᶦᵖ
-http://bigo12.xyz:80/D5970788A475/592526134081/190266
-#EXTINF:-1,EC - CANAL UNO
-http://bigo12.xyz:80/D5970788A475/592526134081/30690
-#EXTINF:-1,EC - ECUADOR TV
-http://bigo12.xyz:80/D5970788A475/592526134081/30689
-#EXTINF:-1,EC - ECUAVISA
-http://bigo12.xyz:80/D5970788A475/592526134081/30688
-#EXTINF:-1,EC - RTS
-http://bigo12.xyz:80/D5970788A475/592526134081/30684
-#EXTINF:-1,EC - TC ECUADOR
-http://bigo12.xyz:80/D5970788A475/592526134081/30683
-#EXTINF:-1,##### PERU - GENERAL #####
-http://bigo12.xyz:80/D5970788A475/592526134081/30575
-#EXTINF:-1,PER - PANAMERICANA ᵛᶦᵖ
-http://bigo12.xyz:80/D5970788A475/592526134081/187631
-#EXTINF:-1,PER - AMERICA ᵛᶦᵖ
+#EXTINF:-1 tvg-id="americatelevision.pe" tvg-name="PER - AMERICA ᵛᶦᵖ" tvg-logo="http://go4.pw/LATINO/PERU/AMERICANTV.png" 
 http://bigo12.xyz:80/D5970788A475/592526134081/187630
-#EXTINF:-1,PER - LATINA HD ᵛᶦᵖ ◉
+#EXTINF:-1 tvg-id="frecuencialatina.pe" tvg-name="PER - LATINA HD ᵛᶦᵖ ◉" tvg-logo="http://go4.pw/LATINO/PERU/LATINA.png" 
 http://bigo12.xyz:80/D5970788A475/592526134081/187628
-#EXTINF:-1,PER - TV PERU HD ᵛᶦᵖ
-http://bigo12.xyz:80/D5970788A475/592526134081/187633
-#EXTINF:-1,PER - PERUMAGICO ᵛᶦᵖ
-http://bigo12.xyz:80/D5970788A475/592526134081/187632
-#EXTINF:-1,PER - EXITOSA HD ᵛᶦᵖ
-http://bigo12.xyz:80/D5970788A475/592526134081/187653
-#EXTINF:-1,PER - IPE HD ᵛᶦᵖ
-http://bigo12.xyz:80/D5970788A475/592526134081/187639
-#EXTINF:-1,PER - CANAL N HD ᵛᶦᵖ ◉
-http://bigo12.xyz:80/D5970788A475/592526134081/187634
-#EXTINF:-1,PER - AMERICA TELEVISION
-http://bigo12.xyz:80/D5970788A475/592526134081/30574
-#EXTINF:-1,PER - PANAMERICANA
-http://bigo12.xyz:80/D5970788A475/592526134081/30568
-#EXTINF:-1,PER - LATINA
-http://bigo12.xyz:80/D5970788A475/592526134081/30570
-#EXTINF:-1,PER - ATV+
-http://bigo12.xyz:80/D5970788A475/592526134081/69200
-#EXTINF:-1,PER - ATV
-http://bigo12.xyz:80/D5970788A475/592526134081/30572
-#EXTINF:-1,PER - TV PERU
-http://bigo12.xyz:80/D5970788A475/592526134081/30567
-#EXTINF:-1,PER - CAPITAL TV
-http://bigo12.xyz:80/D5970788A475/592526134081/30571
-#EXTINF:-1,PER - MOVISTAR DEPORTES HD ᵛᶦᵖ ◉
-http://bigo12.xyz:80/D5970788A475/592526134081/187629
-#EXTINF:-1,PER - GOL PERU HD ᵛᶦᵖ ◉
-http://bigo12.xyz:80/D5970788A475/592526134081/187643
-#EXTINF:-1,PER - DTV SPORTS 1 HD ᵛᶦᵖ
-http://bigo12.xyz:80/D5970788A475/592526134081/197711
-#EXTINF:-1,PER - DTV SPORTS 2 HD ᵛᶦᵖ
-http://bigo12.xyz:80/D5970788A475/592526134081/197712
-#EXTINF:-1,PER - DTV SPORTS PLUS HD  ᵛᶦᵖ
-http://bigo12.xyz:80/D5970788A475/592526134081/197713
-#EXTINF:-1,PER - ESPN HD
-http://bigo12.xyz:80/D5970788A475/592526134081/312515
-#EXTINF:-1,PER - ESPN 2 HD
-http://bigo12.xyz:80/D5970788A475/592526134081/312516
-#EXTINF:-1,PER - ESPN 3 HD
-http://bigo12.xyz:80/D5970788A475/592526134081/312517
-#EXTINF:-1,PER - ESPN EXTRA HD
-http://bigo12.xyz:80/D5970788A475/592526134081/312518
-#EXTINF:-1,PER - TYC SPORTS 1 HD
-http://bigo12.xyz:80/D5970788A475/592526134081/312522
-#EXTINF:-1,PER - TYC SPORTS 2 HD
-http://bigo12.xyz:80/D5970788A475/592526134081/312523
-#EXTINF:-1,PER - TYC SPORTS 3 HD
-http://bigo12.xyz:80/D5970788A475/592526134081/312524
-#EXTINF:-1,PER - FOX SPORTS 1 HD
-http://bigo12.xyz:80/D5970788A475/592526134081/312519
-#EXTINF:-1,PER - FOX SPORTS 2 HD
-http://bigo12.xyz:80/D5970788A475/592526134081/312520
-#EXTINF:-1,PER - FOX SPORTS 3 HD
-http://bigo12.xyz:80/D5970788A475/592526134081/312521
-#EXTINF:-1,##### URUGUAY - GENERAL #####
-http://bigo12.xyz:80/D5970788A475/592526134081/30560
-#EXTINF:-1,UY - CANAL 10
-http://bigo12.xyz:80/D5970788A475/592526134081/30559
-#EXTINF:-1,UY - VTV PLUS
-http://bigo12.xyz:80/D5970788A475/592526134081/30555
-#EXTINF:-1,UY - VTV HD
-http://bigo12.xyz:80/D5970788A475/592526134081/30554
-#EXTINF:-1,UY - TV CIUDAD
-http://bigo12.xyz:80/D5970788A475/592526134081/69171
-#EXTINF:-1,UY - Canal 2 HD San Carlos
-http://bigo12.xyz:80/D5970788A475/592526134081/273244
-#EXTINF:-1,UY - Canal 2 Visión Canaria
-http://bigo12.xyz:80/D5970788A475/592526134081/273246
-#EXTINF:-1,UY - Canal 2 San Carlos
-http://bigo12.xyz:80/D5970788A475/592526134081/273247
-#EXTINF:-1,UY - Canal 4 Paysandu
-http://bigo12.xyz:80/D5970788A475/592526134081/273248
-#EXTINF:-1,UY - Canal 4 Juan Lacaze
-http://bigo12.xyz:80/D5970788A475/592526134081/273250
-#EXTINF:-1,UY - Canal 4 Salto
-http://bigo12.xyz:80/D5970788A475/592526134081/273251
-#EXTINF:-1,UY - Canal 5
-http://bigo12.xyz:80/D5970788A475/592526134081/273253
-#EXTINF:-1,UY - Canal 6 Durazno
-http://bigo12.xyz:80/D5970788A475/592526134081/273254
-#EXTINF:-1,UY - Canal 7 Punta
-http://bigo12.xyz:80/D5970788A475/592526134081/273255
-#EXTINF:-1,UY - Canal 7 Punta
-http://bigo12.xyz:80/D5970788A475/592526134081/273256
-#EXTINF:-1,UY - Canal 8 Artigas
-http://bigo12.xyz:80/D5970788A475/592526134081/273258
-#EXTINF:-1,UY - Canal 8 Durazno
-http://bigo12.xyz:80/D5970788A475/592526134081/273259
-#EXTINF:-1,UY - Canal 8 Rivera
-http://bigo12.xyz:80/D5970788A475/592526134081/273260
-#EXTINF:-1,UY - Canal 8 Salto
-http://bigo12.xyz:80/D5970788A475/592526134081/273261
-#EXTINF:-1,UY - Canal 9 Telerocha
-http://bigo12.xyz:80/D5970788A475/592526134081/273262
-#EXTINF:-1,UY - Canal 11 Las Piedras
-http://bigo12.xyz:80/D5970788A475/592526134081/273263
-#EXTINF:-1,UY - Canal 11 Treinta y Tres
-http://bigo12.xyz:80/D5970788A475/592526134081/273264
-#EXTINF:-1,UY - Canal 26
-http://bigo12.xyz:80/D5970788A475/592526134081/273268
-#EXTINF:-1,UY - Canal 26 Radio y Television de Aguascalientes
-http://bigo12.xyz:80/D5970788A475/592526134081/273269
-#EXTINF:-1,UY - Cámara de Representantes
-http://bigo12.xyz:80/D5970788A475/592526134081/273270
-#EXTINF:-1,UY - El Canal de la Región - Noreste Canelones
-http://bigo12.xyz:80/D5970788A475/592526134081/273271
-#EXTINF:-1,UY - France 24
-http://bigo12.xyz:80/D5970788A475/592526134081/273272
-#EXTINF:-1,UY - RIO URUGUAY TV
-http://bigo12.xyz:80/D5970788A475/592526134081/273273
-#EXTINF:-1,UY - Uruguay Presidencia
-http://bigo12.xyz:80/D5970788A475/592526134081/273276
-#EXTINF:-1,UY - Camara de Senadores
-http://bigo12.xyz:80/D5970788A475/592526134081/273279
-#EXTINF:-1,UY - Artigas Television
-http://bigo12.xyz:80/D5970788A475/592526134081/273280
-#EXTINF:-1,UY - Durazno TV
-http://bigo12.xyz:80/D5970788A475/592526134081/273281
-#EXTINF:-1,UY - Cardinal
-http://bigo12.xyz:80/D5970788A475/592526134081/273282
-#EXTINF:-1,UY - 1000XHora TV
-http://bigo12.xyz:80/D5970788A475/592526134081/273301
-#EXTINF:-1,UY - Canal M
-http://bigo12.xyz:80/D5970788A475/592526134081/273302
-#EXTINF:-1,UY - ESPN3
-http://bigo12.xyz:80/D5970788A475/592526134081/273346
-#EXTINF:-1,UY - ESPN
-http://bigo12.xyz:80/D5970788A475/592526134081/273347
-#EXTINF:-1,UY - ESPN 4 Sur
-http://bigo12.xyz:80/D5970788A475/592526134081/273349
-#EXTINF:-1,UY - ESPN 2 |An|dina HD
-http://bigo12.xyz:80/D5970788A475/592526134081/273350
-#EXTINF:-1,UY - El Nueve HD
-http://bigo12.xyz:80/D5970788A475/592526134081/273351
-#EXTINF:-1,UY - DIRECTV Sports Plus
-http://bigo12.xyz:80/D5970788A475/592526134081/273362
-#EXTINF:-1,UY - DIRECTV Sports (Uru)
-http://bigo12.xyz:80/D5970788A475/592526134081/273363
-#EXTINF:-1,UY - DIRECTV Sports (Arg)
-http://bigo12.xyz:80/D5970788A475/592526134081/273364
-#EXTINF:-1,UY - DIRECTV Sports 2
-http://bigo12.xyz:80/D5970788A475/592526134081/273365
-#EXTINF:-1,UY - DIRECTV eventos 2
-http://bigo12.xyz:80/D5970788A475/592526134081/273366
-#EXTINF:-1,UY - DIRECTV eventos 5
-http://bigo12.xyz:80/D5970788A475/592526134081/273367
-#EXTINF:-1,##### MX - ENTRETENIMIENTO #####
-http://bigo12.xyz:80/D5970788A475/592526134081/276451
-#EXTINF:-1,MX - FOX NEWS HD
-http://bigo12.xyz:80/D5970788A475/592526134081/140275
-#EXTINF:-1,MX - FX HD
-http://bigo12.xyz:80/D5970788A475/592526134081/140285
-#EXTINF:-1,MX - FXM HD
-http://bigo12.xyz:80/D5970788A475/592526134081/140286
-#EXTINF:-1,MX - CANAL DE LAS ESTRELLAS FHD
-http://bigo12.xyz:80/D5970788A475/592526134081/140298
-#EXTINF:-1,MX - AMC FHD
-http://bigo12.xyz:80/D5970788A475/592526134081/140170
-#EXTINF:-1,MX - A3 SERIES FHD
-http://bigo12.xyz:80/D5970788A475/592526134081/140252
-#EXTINF:-1,MX - A&E | UHD
-http://bigo12.xyz:80/D5970788A475/592526134081/140253
-#EXTINF:-1,MX - E! FHD
-http://bigo12.xyz:80/D5970788A475/592526134081/140254
-#EXTINF:-1,MX - CINECANAL FHD
-http://bigo12.xyz:80/D5970788A475/592526134081/140234
-#EXTINF:-1,MX - COMEDY CENTRAL HD
-http://bigo12.xyz:80/D5970788A475/592526134081/140237
-#EXTINF:-1,MX - DE PELICULA SD
-http://bigo12.xyz:80/D5970788A475/592526134081/140238
-#EXTINF:-1,MX - DISTRITO COMEDIA | SD
-http://bigo12.xyz:80/D5970788A475/592526134081/140249
-#EXTINF:-1,MX - EL GOURMET SD
-http://bigo12.xyz:80/D5970788A475/592526134081/140255
-#EXTINF:-1,MX - FILM & ARTS HD
-http://bigo12.xyz:80/D5970788A475/592526134081/140263
-#EXTINF:-1,MX - FOOD NETWORK HD
-http://bigo12.xyz:80/D5970788A475/592526134081/140264
-#EXTINF:-1,MX - GLITZ HD
-http://bigo12.xyz:80/D5970788A475/592526134081/140288
-#EXTINF:-1,MX - GOLDEN EDGE FHD
-http://bigo12.xyz:80/D5970788A475/592526134081/140289
-#EXTINF:-1,MX - GOLDEN PLUS FHD
-http://bigo12.xyz:80/D5970788A475/592526134081/140290
-#EXTINF:-1,MX - GOLDEN FHD
-http://bigo12.xyz:80/D5970788A475/592526134081/140291
-#EXTINF:-1,MX - HLN HD
-http://bigo12.xyz:80/D5970788A475/592526134081/140293
-#EXTINF:-1,MX - HOLA TV FHD
-http://bigo12.xyz:80/D5970788A475/592526134081/140294
-#EXTINF:-1,MX - INGENIO TV SD
-http://bigo12.xyz:80/D5970788A475/592526134081/140295
-#EXTINF:-1,MX - LIFETIME FHD
-http://bigo12.xyz:80/D5970788A475/592526134081/140299
-#EXTINF:-1,MX - MAS CHIC FHD
-http://bigo12.xyz:80/D5970788A475/592526134081/140300
-#EXTINF:-1,MX - MILENIO TV | UHD
-http://bigo12.xyz:80/D5970788A475/592526134081/140302
-#EXTINF:-1,MX - NTN24 | SD
-http://bigo12.xyz:80/D5970788A475/592526134081/140319
-#EXTINF:-1,MX - NU9VE TV FHD
-http://bigo12.xyz:80/D5970788A475/592526134081/140321
-#EXTINF:-1,MX - Q TV SD
-http://bigo12.xyz:80/D5970788A475/592526134081/140324
-#EXTINF:-1,MX - I SAT SD
-http://bigo12.xyz:80/D5970788A475/592526134081/140326
-#EXTINF:-1,MX - SONY HD
-http://bigo12.xyz:80/D5970788A475/592526134081/140328
-#EXTINF:-1,MX - SPACE FHD
-http://bigo12.xyz:80/D5970788A475/592526134081/140329
-#EXTINF:-1,MX - STAR TVE SD
-http://bigo12.xyz:80/D5970788A475/592526134081/140330
-#EXTINF:-1,MX - STUDIO UNIVERSAL FHD
-http://bigo12.xyz:80/D5970788A475/592526134081/140331
-#EXTINF:-1,MX - SUNDANCE TV FHD
-http://bigo12.xyz:80/D5970788A475/592526134081/140332
-#EXTINF:-1,MX - SYFY FHD
-http://bigo12.xyz:80/D5970788A475/592526134081/140333
-#EXTINF:-1,MX - TBS FHD
-http://bigo12.xyz:80/D5970788A475/592526134081/140334
-#EXTINF:-1,MX - TCM | HD
-http://bigo12.xyz:80/D5970788A475/592526134081/140335
-#EXTINF:-1,MX - TELEHIT HD
-http://bigo12.xyz:80/D5970788A475/592526134081/140337
-#EXTINF:-1,MX - TELERITMO HD
-http://bigo12.xyz:80/D5970788A475/592526134081/140338
-#EXTINF:-1,MX - TELEVISA PUEBLO | HD
-http://bigo12.xyz:80/D5970788A475/592526134081/140339
-#EXTINF:-1,MX - TELEVISA FHD
-http://bigo12.xyz:80/D5970788A475/592526134081/140340
-#EXTINF:-1,MX - TLC FHD
-http://bigo12.xyz:80/D5970788A475/592526134081/140341
-#EXTINF:-1,MX - TLR SD
-http://bigo12.xyz:80/D5970788A475/592526134081/140342
-#EXTINF:-1,MX - TNT SERIES HD
-http://bigo12.xyz:80/D5970788A475/592526134081/140343
-#EXTINF:-1,MX - TNT HD
-http://bigo12.xyz:80/D5970788A475/592526134081/140344
-#EXTINF:-1,MX - TRU TV HD
-http://bigo12.xyz:80/D5970788A475/592526134081/140350
-#EXTINF:-1,MX - TRU TV | UHD
-http://bigo12.xyz:80/D5970788A475/592526134081/140351
-#EXTINF:-1,MX - TV MAS FHD
-http://bigo12.xyz:80/D5970788A475/592526134081/140352
-#EXTINF:-1,MX - TVC DEPORTES FHD
-http://bigo12.xyz:80/D5970788A475/592526134081/140354
-#EXTINF:-1,MX - TVC DEPORTES FHD
-http://bigo12.xyz:80/D5970788A475/592526134081/140355
-#EXTINF:-1,MX - TVE FHD
-http://bigo12.xyz:80/D5970788A475/592526134081/140356
-#EXTINF:-1,MX - VTV | SD
-http://bigo12.xyz:80/D5970788A475/592526134081/140362
-#EXTINF:-1,MX - WOBI SD
-http://bigo12.xyz:80/D5970788A475/592526134081/140364
-#EXTINF:-1,MX - BANDAMAX HD
-http://bigo12.xyz:80/D5970788A475/592526134081/140186
-#EXTINF:-1,##### MX - SPORTS #####
-http://bigo12.xyz:80/D5970788A475/592526134081/276449
-#EXTINF:-1,MX - ESPN | HD
-http://bigo12.xyz:80/D5970788A475/592526134081/140257
-#EXTINF:-1,MX - ESPN 2 | HD
-http://bigo12.xyz:80/D5970788A475/592526134081/140258
-#EXTINF:-1,MX - ESPN 3 HD
-http://bigo12.xyz:80/D5970788A475/592526134081/140259
-#EXTINF:-1,MX - ESPN EXTRA HD
-http://bigo12.xyz:80/D5970788A475/592526134081/140260
-#EXTINF:-1,MX - FOX SPORTS 1 HD
-http://bigo12.xyz:80/D5970788A475/592526134081/140278
-#EXTINF:-1,MX - FOX SPORTS 2 HD
-http://bigo12.xyz:80/D5970788A475/592526134081/140280
-#EXTINF:-1,MX - FOX SPORTS 3 HD
-http://bigo12.xyz:80/D5970788A475/592526134081/140282
-#EXTINF:-1,MX - TDN FHD
-http://bigo12.xyz:80/D5970788A475/592526134081/140336
-#EXTINF:-1,MX - NBC GOLF FHD
-http://bigo12.xyz:80/D5970788A475/592526134081/140313
-#EXTINF:-1,MX - AYM SPORT FHD
-http://bigo12.xyz:80/D5970788A475/592526134081/140173
-#EXTINF:-1,##### BRAZIL - GENERAL #####
-http://bigo12.xyz:80/D5970788A475/592526134081/76212
-#EXTINF:-1,BR - GLOBO BRASILA HD
-http://bigo12.xyz:80/D5970788A475/592526134081/76213
-#EXTINF:-1,BR - GLOBO RJ HD
-http://bigo12.xyz:80/D5970788A475/592526134081/76214
-#EXTINF:-1,BR - GLOBO SP HD
-http://bigo12.xyz:80/D5970788A475/592526134081/76215
-#EXTINF:-1,BR - SBT HD
-http://bigo12.xyz:80/D5970788A475/592526134081/76237
-#EXTINF:-1,BR - PREMIERE CLUBES HD
-http://bigo12.xyz:80/D5970788A475/592526134081/76266
-#EXTINF:-1,BR - PREMIERE 2 HD
-http://bigo12.xyz:80/D5970788A475/592526134081/76267
-#EXTINF:-1,BR - PREMIERE 3 HD
-http://bigo12.xyz:80/D5970788A475/592526134081/76268
-#EXTINF:-1,BR - PREMIERE 4 HD
-http://bigo12.xyz:80/D5970788A475/592526134081/76269
-#EXTINF:-1,BR - PREMIERE 5 HD
-http://bigo12.xyz:80/D5970788A475/592526134081/76270
-#EXTINF:-1,BR - PREMIERE 6 HD
-http://bigo12.xyz:80/D5970788A475/592526134081/76271
-#EXTINF:-1,BR - PREMIERE 7 HD
-http://bigo12.xyz:80/D5970788A475/592526134081/76272
-#EXTINF:-1,BR - PARAMOUNT HD
-http://bigo12.xyz:80/D5970788A475/592526134081/76298
-#EXTINF:-1,BR - PARAMOUNT+ 01 FHD
-http://bigo12.xyz:80/D5970788A475/592526134081/330532
-#EXTINF:-1,BR - PARAMOUNT+ 02 FHD
-http://bigo12.xyz:80/D5970788A475/592526134081/330533
-#EXTINF:-1,BR - PARAMOUNT+ 03 FHD
-http://bigo12.xyz:80/D5970788A475/592526134081/330534
-#EXTINF:-1,BR - PARAMOUNT+ 04 FHD
-http://bigo12.xyz:80/D5970788A475/592526134081/330535
-#EXTINF:-1,BR - BAND SPORT HD
-http://bigo12.xyz:80/D5970788A475/592526134081/76287
-#EXTINF:-1,BR - SPACE HD
-http://bigo12.xyz:80/D5970788A475/592526134081/76300
-#EXTINF:-1,##### BRAZIL - SPORT #####
-http://bigo12.xyz:80/D5970788A475/592526134081/76309
-#EXTINF:-1,BR - SPORTV HD
-http://bigo12.xyz:80/D5970788A475/592526134081/76310
-#EXTINF:-1,BR - SPORTV 2 HD
-http://bigo12.xyz:80/D5970788A475/592526134081/76311
-#EXTINF:-1,BR - SPORTV 3 HD
-http://bigo12.xyz:80/D5970788A475/592526134081/76312
-#EXTINF:-1,BR - FOX SPORTS HD
-http://bigo12.xyz:80/D5970788A475/592526134081/76313
-#EXTINF:-1,BR - ESPN HD
-http://bigo12.xyz:80/D5970788A475/592526134081/76315
-#EXTINF:-1,BR - ESPN EXTRA HD
-http://bigo12.xyz:80/D5970788A475/592526134081/76316
-#EXTINF:-1,BR - ESPN 2 HD
-http://bigo12.xyz:80/D5970788A475/592526134081/76317
-#EXTINF:-1,BR - ESPN BRASIL HD
-http://bigo12.xyz:80/D5970788A475/592526134081/76318
-#EXTINF:-1,BR - COMBATE HD
-http://bigo12.xyz:80/D5970788A475/592526134081/76319
-#EXTINF:-1,BR - ALL SPORTS HD
-http://bigo12.xyz:80/D5970788A475/592526134081/76320
-#EXTINF:-1,BR - BAND SPORTS HD
-http://bigo12.xyz:80/D5970788A475/592526134081/76321
-#EXTINF:-1,BR - KINGPYN BOXING HD
-http://bigo12.xyz:80/D5970788A475/592526134081/344546
-#EXTINF:-1,LAT - DTV SPORTS 1
-http://bigo12.xyz:80/D5970788A475/592526134081/325555
-#EXTINF:-1,LAT - DTV SPORTS 2
-http://bigo12.xyz:80/D5970788A475/592526134081/325554
-#EXTINF:-1,LAT - DTV SPORTS PLUS
-http://bigo12.xyz:80/D5970788A475/592526134081/325553
-#EXTINF:-1,LAT - FOX SPORTS 1
-http://bigo12.xyz:80/D5970788A475/592526134081/325558
-#EXTINF:-1,LAT - FOX SPORTS 2
-http://bigo12.xyz:80/D5970788A475/592526134081/325557
-#EXTINF:-1,LAT - FOX SPORTS 3
-http://bigo12.xyz:80/D5970788A475/592526134081/325556
-#EXTINF:-1,LAT - FOX SPORTS 3
-http://bigo12.xyz:80/D5970788A475/592526134081/325573
-#EXTINF:-1,LAT - TYC SPORTS 2
-http://bigo12.xyz:80/D5970788A475/592526134081/325560
-#EXTINF:-1,LAT - TYC SPORTS 3
-http://bigo12.xyz:80/D5970788A475/592526134081/325559
-#EXTINF:-1,LAT - PARAMOUNT+ EPL 1
-http://bigo12.xyz:80/D5970788A475/592526134081/325640
-#EXTINF:-1,LAT - PARAMOUNT+ EPL 2
-http://bigo12.xyz:80/D5970788A475/592526134081/325641
-#EXTINF:-1,LAT - PARAMOUNT+ EPL 3
-http://bigo12.xyz:80/D5970788A475/592526134081/325642
-#EXTINF:-1,LAT - PARAMOUNT+ EPL 4
-http://bigo12.xyz:80/D5970788A475/592526134081/325643
-#EXTINF:-1,LAT - PARAMOUNT+ EPL 5
-http://bigo12.xyz:80/D5970788A475/592526134081/325644
-#EXTINF:-1,LAT - PARAMOUNT+ EPL 6
-http://bigo12.xyz:80/D5970788A475/592526134081/325645
-#EXTINF:-1,LAT - PARAMOUNT+ EPL 7
-http://bigo12.xyz:80/D5970788A475/592526134081/325646
-#EXTINF:-1,LAT - PARAMOUNT+ EPL 8
-http://bigo12.xyz:80/D5970788A475/592526134081/325647
-#EXTINF:-1,LAT - PARAMOUNT+ EPL 9
-http://bigo12.xyz:80/D5970788A475/592526134081/325648
-#EXTINF:-1,LAT - PARAMOUNT+ EPL 10
-http://bigo12.xyz:80/D5970788A475/592526134081/325649
-#EXTINF:-1,LAT - VIX DEPORTES
-http://bigo12.xyz:80/D5970788A475/592526134081/325639
-#EXTINF:-1,LAT - VIX DEPORTES 1
-http://bigo12.xyz:80/D5970788A475/592526134081/325638
-#EXTINF:-1,LAT - VIX DEPORTES 2
-http://bigo12.xyz:80/D5970788A475/592526134081/325637
-#EXTINF:-1,LAT - VIX DEPORTES 3
-http://bigo12.xyz:80/D5970788A475/592526134081/325636
-#EXTINF:-1,LAT - VIX DEPORTES 4
-http://bigo12.xyz:80/D5970788A475/592526134081/325635
-#EXTINF:-1,LAT - VIX DEPORTES 5
-http://bigo12.xyz:80/D5970788A475/592526134081/325634
-#EXTINF:-1,LAT - VIX DEPORTES 6
-http://bigo12.xyz:80/D5970788A475/592526134081/325633
-#EXTINF:-1,LAT - VIX DEPORTES 7
-http://bigo12.xyz:80/D5970788A475/592526134081/325632
-#EXTINF:-1,LAT - VIX DEPORTES 8
-http://bigo12.xyz:80/D5970788A475/592526134081/325631
-#EXTINF:-1,LAT - VIX DEPORTES 9
-http://bigo12.xyz:80/D5970788A475/592526134081/325630
-#EXTINF:-1,LAT - VIX DEPORTES 10
-http://bigo12.xyz:80/D5970788A475/592526134081/325629
-#EXTINF:-1,LAT - VIX DEPORTES 11
-http://bigo12.xyz:80/D5970788A475/592526134081/325628
-#EXTINF:-1,LAT - VIX DEPORTES 12
-http://bigo12.xyz:80/D5970788A475/592526134081/325627
-#EXTINF:-1,LAT - VIX DEPORTES 13
-http://bigo12.xyz:80/D5970788A475/592526134081/325626
-#EXTINF:-1,LAT - VIX DEPORTES 14
-http://bigo12.xyz:80/D5970788A475/592526134081/325625
-#EXTINF:-1,LAT - VIX DEPORTES 15
-http://bigo12.xyz:80/D5970788A475/592526134081/325624
-#EXTINF:-1,LAT - VIX DEPORTES 16
-http://bigo12.xyz:80/D5970788A475/592526134081/325623
-#EXTINF:-1,LAT - VIX DEPORTES 17
-http://bigo12.xyz:80/D5970788A475/592526134081/325622
-#EXTINF:-1,LAT - VIX DEPORTES 18
-http://bigo12.xyz:80/D5970788A475/592526134081/325621
-#EXTINF:-1,LAT - VIX DEPORTES 19
-http://bigo12.xyz:80/D5970788A475/592526134081/325620
-#EXTINF:-1,LAT - VIX DEPORTES 20
-http://bigo12.xyz:80/D5970788A475/592526134081/325619
-#EXTINF:-1,LAT - FUBO SPORTS NETWORK
-http://bigo12.xyz:80/D5970788A475/592526134081/325608
-#EXTINF:-1,LAT - FUBO SPORTS 1
-http://bigo12.xyz:80/D5970788A475/592526134081/325613
-#EXTINF:-1,LAT - FUBO SPORTS 2
-http://bigo12.xyz:80/D5970788A475/592526134081/325612
-#EXTINF:-1,LAT - FUBO SPORTS 3
-http://bigo12.xyz:80/D5970788A475/592526134081/325611
-#EXTINF:-1,LAT - FUBO SPORTS 4
-http://bigo12.xyz:80/D5970788A475/592526134081/325610
-#EXTINF:-1,LAT - FUBO SPORTS 5
-http://bigo12.xyz:80/D5970788A475/592526134081/325609
-#EXTINF:-1,LAT - TUDN
-http://bigo12.xyz:80/D5970788A475/592526134081/325600
-#EXTINF:-1,LAT - TUDN Live 1
-http://bigo12.xyz:80/D5970788A475/592526134081/325606
-#EXTINF:-1,LAT - TUDN Live 2
-http://bigo12.xyz:80/D5970788A475/592526134081/325605
-#EXTINF:-1,LAT - TUDN Live 3
-http://bigo12.xyz:80/D5970788A475/592526134081/325604
-#EXTINF:-1,LAT - TUDN Live 4
-http://bigo12.xyz:80/D5970788A475/592526134081/325603
-#EXTINF:-1,LAT - TUDN Live 5
-http://bigo12.xyz:80/D5970788A475/592526134081/325602
-#EXTINF:-1,LAT - TUDN Live 6
-http://bigo12.xyz:80/D5970788A475/592526134081/325601
-#EXTINF:-1,LAT - ESPN EXTRA
-http://bigo12.xyz:80/D5970788A475/592526134081/325561
-#EXTINF:-1,LAT - ESPN
-http://bigo12.xyz:80/D5970788A475/592526134081/325564
-#EXTINF:-1,LAT - ESPN
-http://bigo12.xyz:80/D5970788A475/592526134081/325567
-#EXTINF:-1,LAT - ESPN 2
-http://bigo12.xyz:80/D5970788A475/592526134081/325563
-#EXTINF:-1,LAT - ESPN 2
-http://bigo12.xyz:80/D5970788A475/592526134081/325565
-#EXTINF:-1,LAT - ESPN 3
-http://bigo12.xyz:80/D5970788A475/592526134081/325562
-#EXTINF:-1,LAT - ESPN3
-http://bigo12.xyz:80/D5970788A475/592526134081/325568
-#EXTINF:-1,LAT - ESPN 4
-http://bigo12.xyz:80/D5970788A475/592526134081/325566
-#EXTINF:-1,LAT - DIRECTV SPORTS
-http://bigo12.xyz:80/D5970788A475/592526134081/325570
-#EXTINF:-1,LAT - DIRECTV SPORTS
-http://bigo12.xyz:80/D5970788A475/592526134081/325571
-#EXTINF:-1,LAT - DIRECTV SPORTS 2
-http://bigo12.xyz:80/D5970788A475/592526134081/325569
-#EXTINF:-1,LAT - DIRECTV SPORTS Plus
-http://bigo12.xyz:80/D5970788A475/592526134081/325572
-#EXTINF:-1,LAT - TIGO SPORTS
-http://bigo12.xyz:80/D5970788A475/592526134081/325574
-#EXTINF:-1,LAT - DIRECTV SPORTS 1
-http://bigo12.xyz:80/D5970788A475/592526134081/325577
-#EXTINF:-1,LAT - DIRECTV SPORTS 2
-http://bigo12.xyz:80/D5970788A475/592526134081/325576
-#EXTINF:-1,LAT - DIRECT TV SPORTS
-http://bigo12.xyz:80/D5970788A475/592526134081/325581
-#EXTINF:-1,LAT - DIRECT TV SPORTS 2
-http://bigo12.xyz:80/D5970788A475/592526134081/325580
-#EXTINF:-1,LAT - DIRECT TV SPORTS PLUS
-http://bigo12.xyz:80/D5970788A475/592526134081/325579
-#EXTINF:-1,LAT - TNT SPORT
-http://bigo12.xyz:80/D5970788A475/592526134081/325582
-#EXTINF:-1,LAT - FOX SPORTS
-http://bigo12.xyz:80/D5970788A475/592526134081/325578
-#EXTINF:-1,LAT - FOX SPORT
-http://bigo12.xyz:80/D5970788A475/592526134081/325585
-#EXTINF:-1,LAT - FOX SPORT 2
-http://bigo12.xyz:80/D5970788A475/592526134081/325584
-#EXTINF:-1,LAT - FOX SPORT 3
-http://bigo12.xyz:80/D5970788A475/592526134081/325583
-#EXTINF:-1,LAT - ESPN+
-http://bigo12.xyz:80/D5970788A475/592526134081/325586
-#EXTINF:-1,LAT - ESPN FHD
-http://bigo12.xyz:80/D5970788A475/592526134081/325589
-#EXTINF:-1,LAT - ESPN PREMIUM
-http://bigo12.xyz:80/D5970788A475/592526134081/325590
-#EXTINF:-1,LAT - ESPN 2 FHD
-http://bigo12.xyz:80/D5970788A475/592526134081/325588
-#EXTINF:-1,LAT - ESPN 3 FHD
-http://bigo12.xyz:80/D5970788A475/592526134081/325587
-#EXTINF:-1,LAT - CLARO SPORT
-http://bigo12.xyz:80/D5970788A475/592526134081/325592
-#EXTINF:-1,LAT - CLARO SPORT 2
-http://bigo12.xyz:80/D5970788A475/592526134081/325591
-#EXTINF:-1,LAT - WINSPORTS HD
-http://bigo12.xyz:80/D5970788A475/592526134081/325593
-#EXTINF:-1,LAT - WINSPORTS PLUS HD
-http://bigo12.xyz:80/D5970788A475/592526134081/325575
-#EXTINF:-1,LAT - FOX SPORT
-http://bigo12.xyz:80/D5970788A475/592526134081/325595
-#EXTINF:-1,LAT - FOX SPORT 2
-http://bigo12.xyz:80/D5970788A475/592526134081/325594
-#EXTINF:-1,LAT - ESPN.
-http://bigo12.xyz:80/D5970788A475/592526134081/325599
-#EXTINF:-1,LAT - ESPN 2.
-http://bigo12.xyz:80/D5970788A475/592526134081/325598
-#EXTINF:-1,LAT - ESPN 3.
-http://bigo12.xyz:80/D5970788A475/592526134081/325597
-#EXTINF:-1,LAT - UNIVISION DEPORTES
-http://bigo12.xyz:80/D5970788A475/592526134081/325607
-
-
-
-
-
-
-
-
-
-
-
