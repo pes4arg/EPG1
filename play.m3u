@@ -509,6 +509,10 @@ http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/871352
 http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107540
 #EXTINF:-1 tvg-id="Mega.es" tvg-name="ES| MEGA HD" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN-HICHAM/MEGA.png" group-title="ES| GENERAL TREX",ES| MEGA HD
 http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107645
+#EXTINF:-1 tvg-id="mx.Canal 5 Galavision" tvg-name="MXC| GALAVISION HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.galavision.png" group-title="ES| GENERAL TREX",ES| GALAVISION HD
+http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/552878
+#EXTINF:-1 tvg-id="Telemundo.mx" tvg-name="MXC| TELEMUNDO" tvg-logo="http://logo.protv.cc/picons/logos/TELEMUNDO-.jpeg" group-title="ES| GENERAL TREX",ES| TELEMUNDO
+http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/552867
 #EXTINF:-1 tvg-id="Canal11.pt" tvg-name="PT| CANAL 11 HD" tvg-logo="http://logo.protv.cc/piconsnew/canal11hd.png" group-title="ES| GENERAL TREX",ES| CANAL 11 HD
 http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107524
 #EXTINF:-1 tvg-id="SportTVplus.pt" tvg-name="PT| SPORT TV + HD" tvg-logo="http://logo.protv.cc/piconsnew/sporttvplus.png" group-title="ES| GENERAL TREX",ES| SPORT TV + HD
@@ -543,65 +547,69 @@ http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/122486
 http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107491
 #EXTINF:-1 tvg-id="BTV1.pt" tvg-name="PT| BTV 1 HD" tvg-logo="http://logo.protv.cc/piconsnew/btv1.png" group-title="ES| BTV 1 HD
 http://tv.trexiptv.com:80/ee5fc9a1e4/9a30ecd4c5/107511
-#EXTINF:-1 tvg-id="" tvg-name="##### LATI #####" tvg-logo="http://go4.pw/EUROPE/FRANCE/flag_france.png" group-title="MX| LATI
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/1174
-#EXTINF:-1 tvg-id="I1553.110964.schedulesdirect.org" tvg-name="MX: ESPN" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/espn_mx.png" group-title="MX| ESPN
+#EXTINF:-1 tvg-id="I1553.110964.schedulesdirect.org" tvg-name="MX: ESPN" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/espn_mx.png" group-title="DEPORTES",MX: ESPN
 http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/1048
-#EXTINF:-1 tvg-id="I1550.10180.schedulesdirect.org" tvg-name="MX: ESPN2" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/espn2_mx.png" group-title="MX| ESPN2
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/1050
-#EXTINF:-1 tvg-id="I1559.79049.schedulesdirect.org" tvg-name="MX: ESPN3" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/espn_3.png" group-title="MX| ESPN3
-http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/1161
-#EXTINF:-1 tvg-id="I3313.71914.schedulesdirect.org" tvg-name="MX: ESPN DEPORTES" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/espn_deportes.png" group-title="MX| ESPN DEPORTES
+#EXTINF:-1 tvg-id="I3313.71914.schedulesdirect.org" tvg-name="MX: ESPN DEPORTES" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/espn_deportes.png" group-title="DEPORTES",MX: ESPN DEPORTES
 http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/1049
-#EXTINF:-1 tvg-id="I605.30392.schedulesdirect.org" tvg-name="MX: FOX SPORTS" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/fox_sports.png" group-title="MX| FOX SPORTS
+#EXTINF:-1 tvg-id="I1550.10180.schedulesdirect.org" tvg-name="MX: ESPN2" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/espn2_mx.png" group-title="DEPORTES",MX: ESPN2
+http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/1050
+#EXTINF:-1 tvg-id="I1559.79049.schedulesdirect.org" tvg-name="MX: ESPN3" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/espn_3.png" group-title="DEPORTES",MX: ESPN3
+http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/1161
+#EXTINF:-1 tvg-id="I3114.15377.schedulesdirect.org" tvg-name="MX: FOX DEPORTES" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/fox_deportes.png" group-title="DEPORTES",MX: FOX DEPORTES
+http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/1022
+#EXTINF:-1 tvg-id="I605.30392.schedulesdirect.org" tvg-name="MX: FOX SPORTS" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/fox_sports.png" group-title="DEPORTES",MX: FOX SPORTS
 http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/1063
-#EXTINF:-1 tvg-id="I1305.71328.schedulesdirect.org" tvg-name="MX: FOX SPORTS 2" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/fox_sports_2.png" group-title="MX| FOX SPORTS 2
+#EXTINF:-1 tvg-id="I1305.71328.schedulesdirect.org" tvg-name="MX: FOX SPORTS 2" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/fox_sports_2.png" group-title="DEPORTES",MX: FOX SPORTS 2
 http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/1065
-#EXTINF:-1 tvg-id="I307.47374.schedulesdirect.org" tvg-name="MX: FOX SPORTS 3" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/fox_sports_3.png" group-title="MX| FOX SPORTS 3
+#EXTINF:-1 tvg-id="I307.47374.schedulesdirect.org" tvg-name="MX: FOX SPORTS 3" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/fox_sports_3.png" group-title="DEPORTES",MX: FOX SPORTS 3
 http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/1066
-#EXTINF:-1 tvg-id="I1310.123582.schedulesdirect.org" tvg-name="MX: FOX SPORTS PREMIUM MX" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/fox_sports_premium_mx.png" group-title="MX| FOX SPORTS PREMIUM MX
+#EXTINF:-1 tvg-id="I1310.123582.schedulesdirect.org" tvg-name="MX: FOX SPORTS PREMIUM MX" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/fox_sports_premium_mx.png" group-title="DEPORTES",MX: FOX SPORTS PREMIUM MX
 http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/1055
-#EXTINF:-1 tvg-id="NONE" tvg-name="MX: SKY SPORTS A MEX" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/sky_sport.png" group-title="MX| SKY SPORTS A MEX
+#EXTINF:-1 tvg-id="skysports16.mx" tvg-name="MX: SKY SPORTS A MEX" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/sky_sport.png" group-title="DEPORTES",MX: SKY SPORTS A MEX
 http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/1148
-#EXTINF:-1 tvg-id="I1547.65129.schedulesdirect.org" tvg-name="MX: TUDN MEXICO" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/tudn_mexico.png" group-title="MX| TUDN MEXICO
+#EXTINF:-1 tvg-id="I1547.65129.schedulesdirect.org" tvg-name="MX: TUDN MEXICO" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/tudn_mexico.png" group-title="DEPORTES",MX: TUDN MEXICO
 http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/1113
-#EXTINF:-1 tvg-id="I856.77033.schedulesdirect.org" tvg-name="MX: TUDN USA" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/tudn_usa.png" group-title="MX| TUDN USA
+#EXTINF:-1 tvg-id="I856.77033.schedulesdirect.org" tvg-name="MX: TUDN USA" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/tudn_usa.png" group-title="DEPORTES",MX: TUDN USA
 http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/1131
-#EXTINF:-1 tvg-id="I273.68367.schedulesdirect.org" tvg-name="MX: GALAVISION" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/galavision.png" group-title="MX| GALAVISION
+#EXTINF:-1 tvg-id="I273.68367.schedulesdirect.org" tvg-name="MX: GALAVISION" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/galavision.png" group-title="DEPORTES",MX: GALAVISION
 http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/1069
-#EXTINF:-1 tvg-id="I835.10239.schedulesdirect.org" tvg-name="MX: TELEMUNDO" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/telemundo.png" group-title="MX| TELEMUNDO
+#EXTINF:-1 tvg-id="I835.10239.schedulesdirect.org" tvg-name="MX: TELEMUNDO" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/telemundo.png" group-title="DEPORTES",MX: TELEMUNDO
 http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/1116
-#EXTINF:-1 tvg-id="I3009.14791.schedulesdirect.org" tvg-name="MX: UNIVERSO" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/universo.png" group-title="MX| UNIVERSO
+#EXTINF:-1 tvg-id="I3009.14791.schedulesdirect.org" tvg-name="MX: UNIVERSO" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/universo.png" group-title="DEPORTES",MX: UNIVERSO
 http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/1130
-#EXTINF:-1 tvg-id="I827.11118.schedulesdirect.org" tvg-name="MX: UNIVISION" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/univision.png" group-title="MX| UNIVISION
+#EXTINF:-1 tvg-id="I827.11118.schedulesdirect.org" tvg-name="MX: UNIVISION" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/univision.png" group-title="DEPORTES",MX: UNIVISION
 http://lati.iptvlatino.cc:88/33b9htqe/nbhe7fgn/1132
-#EXTINF:-1 tvg-id="" tvg-name="##### bigo #####" tvg-logo="http://go4.pw/EUROPE/FRANCE/flag_france.png" 
-http://bigo12.xyz:80/D5970788A475/592526134081/57008
-#EXTINF:-1 tvg-id="espndeportes.us" tvg-name="LATINO - ESPN Deportes ᵛᶦᵖ ◉" tvg-logo="http://go4.pw/AMERICA/USA/ESPN.png" group-title="LATINO | ESPN Deportes ᵛᶦᵖ ◉
-http://bigo12.xyz:80/D5970788A475/592526134081/200139
-#EXTINF:-1 tvg-id="univisiondeportes.us" tvg-name="LATINO - Univision Deportes ᵛᶦᵖ ◉" tvg-logo="http://go4.pw/LATINO/UNIVISION.png" group-title="LATINO | Univision Deportes ᵛᶦᵖ ◉
-http://bigo12.xyz:80/D5970788A475/592526134081/200138
-#EXTINF:-1 tvg-id="foxdeportes.us" tvg-name="LATINO - Fox Deportes ᵛᶦᵖ ◉" tvg-logo="http://go4.pw/LATINO/FOX_Deportes.png" group-title="LATINO | Fox Deportes ᵛᶦᵖ ◉
-http://bigo12.xyz:80/D5970788A475/592526134081/200140
-#EXTINF:-1 tvg-id="univision23wltv.us" tvg-name="LATINO - UNIVISION (MIAMI) | HD" tvg-logo="http://go4.pw/AMERICA/USA/Univision-1-svg.png" group-title="LATINO | UNIVISION (MIAMI) | HD
-http://bigo12.xyz:80/D5970788A475/592526134081/194520
-#EXTINF:-1 tvg-id="americatv.ar" tvg-name="LATINO - AMERICA TV HD ᵛᶦᵖ ◉" tvg-logo="http://go4.pw/LATINO/ARGENTINA/AMERICANTV.png" group-title="LATINO | AMERICA TV HD ᵛᶦᵖ ◉
+#EXTINF:-1 tvg-id="" tvg-name="##### BIGO - GENERAL #####" tvg-logo="http://go4.pw/LATINO/flag/ARGENTINA0.png" group-title="AM | LATINO",##### BIGO - GENERAL #####
+http://bigo12.xyz:80/D5970788A475/592526134081/30759
+#EXTINF:-1 tvg-id="americatv.ar" tvg-name="ARG - AMERICA TV HD ᵛᶦᵖ ◉" tvg-logo="http://go4.pw/LATINO/ARGENTINA/AMERICANTV.png" group-title="AM | LATINO",ARG - AMERICA TV HD ᵛᶦᵖ ◉
 http://bigo12.xyz:80/D5970788A475/592526134081/197715
-#EXTINF:-1 tvg-id="telefe.ar" tvg-name="LATINO - TELEFE HD ᵛᶦᵖ ◉ " tvg-logo="http://go4.pw/LATINO/ARGENTINA/TELEFETV.png" group-title="LATINO | TELEFE HD ᵛᶦᵖ ◉
+#EXTINF:-1 tvg-id="telefe.ar" tvg-name="ARG - TELEFE HD ᵛᶦᵖ ◉ " tvg-logo="http://go4.pw/LATINO/ARGENTINA/TELEFETV.png" group-title="AM | LATINO",ARG - - TELEFE HD ᵛᶦᵖ ◉
 http://bigo12.xyz:80/D5970788A475/592526134081/197716
-#EXTINF:-1 tvg-id="el13.ar" tvg-name="LATINO - EL TRECE HD ᵛᶦᵖ ◉" tvg-logo="http://go4.pw/LATINO/ARGENTINA/ELTRECE.png" group-title="LATINO | EL TRECE HD ᵛᶦᵖ ◉
+#EXTINF:-1 tvg-id="el13.ar" tvg-name="ARG - EL TRECE HD ᵛᶦᵖ ◉" tvg-logo="http://go4.pw/LATINO/ARGENTINA/ELTRECE.png" group-title="AM | LATINO",ARG - EL TRECE HD ᵛᶦᵖ ◉
 http://bigo12.xyz:80/D5970788A475/592526134081/197719
-#EXTINF:-1 tvg-id="tntsports.ar" tvg-name="LATINO - TNT SPORTS HD ᵛᶦᵖ" tvg-logo="http://go4.pw/LATINO/ARGENTINA/TNT.png" group-title="LATINO | TNT SPORTS HD ᵛᶦᵖ
+#EXTINF:-1 tvg-id="tntsports.ar" tvg-name="ARG - TNT SPORTS HD ᵛᶦᵖ" tvg-logo="http://go4.pw/LATINO/ARGENTINA/TNT.png" group-title="AM | LATINO",ARG - TNT SPORTS HD ᵛᶦᵖ
 http://bigo12.xyz:80/D5970788A475/592526134081/197733
-#EXTINF:-1 tvg-id="americatelevision.pe" tvg-name="LATINO - AMERICA ᵛᶦᵖ" tvg-logo="http://go4.pw/LATINO/PERU/AMERICANTV.png" group-title="LATINO | AMERICA ᵛᶦᵖ
-http://bigo12.xyz:80/D5970788A475/592526134081/187630
-#EXTINF:-1 tvg-id="frecuencialatina.pe" tvg-name="LATINO - LATINA HD ᵛᶦᵖ ◉" tvg-logo="http://go4.pw/LATINO/PERU/LATINA.png" group-title="LATINO | LATINA HD ᵛᶦᵖ ◉
-http://bigo12.xyz:80/D5970788A475/592526134081/187628
-#EXTINF:-1 tvg-id="espnpremium.ar" tvg-name="LATINO - ESPN PREMIUM ◉" tvg-logo="http://go4.pw/LATINO/ARGENTINA/FOXSPOTSPREMUIM.png" group-title="LATINO | ESPN PREMIUM ◉
+#EXTINF:-1 tvg-id="espnpremium.ar" tvg-name="ARG - ESPN PREMIUM ◉" tvg-logo="http://go4.pw/LATINO/ARGENTINA/FOXSPOTSPREMUIM.png" group-title="AM | LATINO",ARG - ESPN PREMIUM ◉
 http://bigo12.xyz:80/D5970788A475/592526134081/30758
-#EXTINF:-1 tvg-id="cuatro.es" tvg-name="LATINO - CUATRO HD ◉" tvg-logo="http://go4.pw/EUROPE/SPAIN/CUATROHD-1.png" group-title="LATINO | CUATRO HD ◉
+#EXTINF:-1#EXTINF:-1 tvg-id="espndeportes.us" tvg-name="ARG - ESPN Deportes ᵛᶦᵖ ◉" tvg-logo="http://go4.pw/AMERICA/USA/ESPN.png" group-title="AM | LATINO",ARG - ESPN Deportes ᵛᶦᵖ ◉
+http://bigo12.xyz:80/D5970788A475/592526134081/200139
+#EXTINF:-1 tvg-id="univisiondeportes.us" tvg-name="ARG - Univision Deportes ᵛᶦᵖ ◉" tvg-logo="http://go4.pw/LATINO/UNIVISION.png" group-title="AM | LATINO",ARG - Univision Deportes ᵛᶦᵖ ◉
+http://bigo12.xyz:80/D5970788A475/592526134081/200138
+#EXTINF:-1 tvg-id="foxdeportes.us" tvg-name="ARG - Fox Deportes ᵛᶦᵖ ◉" tvg-logo="http://go4.pw/LATINO/FOX_Deportes.png" group-title="AM | LATINO",ARG - Fox Deportes ᵛᶦᵖ ◉
+http://bigo12.xyz:80/D5970788A475/592526134081/200140
+#EXTINF:-1 tvg-id="univision23wltv.us" tvg-name="ARG - UNIVISION (MIAMI) | HD" tvg-logo="http://go4.pw/AMERICA/USA/Univision-1-svg.png" group-title="AM | LATINO",ARG - UNIVISION (MIAMI) | HD
+http://bigo12.xyz:80/D5970788A475/592526134081/194520
+#EXTINF:-1 tvg-id="americatelevision.pe" tvg-name="ARG - AMERICA ᵛᶦᵖ" tvg-logo="http://go4.pw/LATINO/PERU/AMERICANTV.png" group-title="AM | LATINO",ARG - AMERICA ᵛᶦᵖ
+http://bigo12.xyz:80/D5970788A475/592526134081/187630
+#EXTINF:-1 tvg-id="frecuencialatina.pe" tvg-name="ARG - LATINA HD ᵛᶦᵖ ◉" tvg-logo="http://go4.pw/LATINO/PERU/LATINA.png" group-title="AM | LATINO",ARG - LATINA HD ᵛᶦᵖ ◉
+http://bigo12.xyz:80/D5970788A475/592526134081/187628
+#EXTINF:-1 tvg-id="movistardeportes.pe" tvg-name="ARG - MOVISTAR DEPORTES HD ᵛᶦᵖ ◉" tvg-logo="http://go4.pw/LATINO/PERU/MOVISTAR.png" group-title="AM | LATINO",ARG - MOVISTAR DEPORTES HD ᵛᶦᵖ ◉
+http://bigo12.xyz:80/D5970788A475/592526134081/187629
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="ARG - CUATRO HD ◉" tvg-logo="http://go4.pw/EUROPE/SPAIN/CUATROHD-1.png" group-title="AM | LATINO",ARG - CUATRO HD ◉
 http://bigo12.xyz:80/D5970788A475/592526134081/21363
-#EXTINF:-1 tvg-id="winsports.co" tvg-name="LATINO - Winsports ᵛᶦᵖ ◉" tvg-logo="http://go4.pw/LATINO/COLOMBIA/WinSports.png" group-title="LATINO | Winsports ᵛᶦᵖ ◉
+#EXTINF:-1 tvg-id="winsports.co" tvg-name="ARG - Winsports ᵛᶦᵖ ◉" tvg-logo="http://go4.pw/LATINO/COLOMBIA/WinSports.png" group-title="AM | LATINO",ARG - Winsports ᵛᶦᵖ ◉
 http://bigo12.xyz:80/D5970788A475/592526134081/190259
-#EXTINF:-1 tvg-id="winsportsplus.co" tvg-name="LATINO - Winsports Plus ᵛᶦᵖ ◉" tvg-logo="http://go4.pw/LATINO/COLOMBIA/WinSportsPlus.png"  group-title="LATINO | Winsports Plus ᵛᶦᵖ ◉
+#EXTINF:-1 tvg-id="winsportsplus.co" tvg-name="ARG - Winsports Plus ᵛᶦᵖ ◉" tvg-logo="http://go4.pw/LATINO/COLOMBIA/WinSportsPlus.png"  group-title="AM | LATINO",ARG - Winsports Plus ᵛᶦᵖ ◉
 http://bigo12.xyz:80/D5970788A475/592526134081/190260
+#EXTINF:-1 tvg-id="golperu.pe" tvg-name="ARG - GOL PERU HD ᵛᶦᵖ ◉" tvg-logo="http://go4.pw/LATINO/PERU/GOLPERU.png" group-title="AM | LATINO",ARG - GOL PERU HD ᵛᶦᵖ ◉
+http://bigo12.xyz:80/D5970788A475/592526134081/187643
