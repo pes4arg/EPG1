@@ -128,124 +128,112 @@
     <display-name lang="it">SportItalia</display-name>
     <url>http://www.staseraintv.com</url>
   </channel>
-  <programme start="20240818060000 +0200" stop="20240818063000 +0200" channel="SportItalia">
+  <programme start="20240830060000 +0200" stop="20240830063000 +0200" channel="SportItalia">
     <title lang="it">Si Live 24</title>
   </programme>
-  <programme start="20240818063000 +0200" stop="20240818070000 +0200" channel="SportItalia">
+  <programme start="20240830063000 +0200" stop="20240830070000 +0200" channel="SportItalia">
     <title lang="it">Si Live 24</title>
   </programme>
-  <programme start="20240818070000 +0200" stop="20240818073000 +0200" channel="SportItalia">
-    <title lang="it">Si Live 24</title>
+  <programme start="20240830070000 +0200" stop="20240830080000 +0200" channel="SportItalia">
+    <title lang="it">Sportitaliamercato</title>
   </programme>
-  <programme start="20240818073000 +0200" stop="20240818080000 +0200" channel="SportItalia">
-    <title lang="it">Si Live 24</title>
-  </programme>
-  <programme start="20240818080000 +0200" stop="20240818083000 +0200" channel="SportItalia">
+  <programme start="20240830080000 +0200" stop="20240830083000 +0200" channel="SportItalia">
     <title lang="it">Otto In Punto (diretta)</title>
   </programme>
-  <programme start="20240818083000 +0200" stop="20240818090000 +0200" channel="SportItalia">
+  <programme start="20240830083000 +0200" stop="20240830090000 +0200" channel="SportItalia">
     <title lang="it">Otto In Punto</title>
   </programme>
-  <programme start="20240818090000 +0200" stop="20240818110000 +0200" channel="SportItalia">
-    <title lang="it">Campionato Primavera Udinese-Milan</title>
+  <programme start="20240830090000 +0200" stop="20240830110000 +0200" channel="SportItalia">
+    <title lang="it">Calciomercato Live Giornata Finale (diretta)</title>
   </programme>
-  <programme start="20240818110000 +0200" stop="20240818130000 +0200" channel="SportItalia">
-    <title lang="it">Campionato Primavera Genoa-Juventus</title>
+  <programme start="20240830110000 +0200" stop="20240830130000 +0200" channel="SportItalia">
+    <title lang="it">Calciomercato Live Giornata Finale (diretta)</title>
   </programme>
-  <programme start="20240818130000 +0200" stop="20240818140000 +0200" channel="SportItalia">
+  <programme start="20240830130000 +0200" stop="20240830140000 +0200" channel="SportItalia">
     <title lang="it">Si Live 24 (diretta)</title>
   </programme>
-  <programme start="20240818140000 +0200" stop="20240818150000 +0200" channel="SportItalia">
-    <title lang="it">Si Live 24 (diretta)</title>
+  <programme start="20240830140000 +0200" stop="20240830160000 +0200" channel="SportItalia">
+    <title lang="it">Calcio Mercato Live Giornata Finale (diretta)</title>
   </programme>
-  <programme start="20240818150000 +0200" stop="20240818163000 +0200" channel="SportItalia">
-    <title lang="it">Calcio Weekend Live (diretta)</title>
+  <programme start="20240830160000 +0200" stop="20240830203000 +0200" channel="SportItalia">
+    <title lang="it">Calcio Mercato Live Giornata Finale (diretta)</title>
   </programme>
-  <programme start="20240818163000 +0200" stop="20240818183000 +0200" channel="SportItalia">
-    <title lang="it">Campionato Primavera Empoli-Lazio (diretta)</title>
-  </programme>
-  <programme start="20240818183000 +0200" stop="20240818203000 +0200" channel="SportItalia">
+  <programme start="20240830203000 +0200" stop="20240830223000 +0200" channel="SportItalia">
     <title lang="it">Serie A Live (diretta)</title>
   </programme>
-  <programme start="20240818203000 +0200" stop="20240818230000 +0200" channel="SportItalia">
-    <title lang="it">Serie A Live (diretta)</title>
+  <programme start="20240830223000 +0200" stop="20240831000000 +0200" channel="SportItalia">
+    <title lang="it">Chiusura Calciomercato (diretta)</title>
   </programme>
-  <programme start="20240818230000 +0200" stop="20240819000000 +0200" channel="SportItalia">
-    <title lang="it">Calciomercato Live (diretta)</title>
-  </programme>
-  <programme start="20240819000000 +0200" stop="20240819003000 +0200" channel="SportItalia">
-    <title lang="it">Si Live 24 (diretta)</title>
-  </programme>
-  <programme start="20240819003000 +0200" stop="20240819010000 +0200" channel="SportItalia">
-    <title lang="it">Calciomercato Live</title>
-  </programme>
-  <programme start="20240819010000 +0200" stop="20240819013000 +0200" channel="SportItalia">
-    <title lang="it">Si Live 24</title>
-  </programme>
-  <programme start="20240819013000 +0200" stop="20240819033000 +0200" channel="SportItalia">
-    <title lang="it">Campionato Huracan-Belgrano (diretta)</title>
-  </programme>
-  <programme start="20240819033000 +0200" stop="20240819053000 +0200" channel="SportItalia">
-    <title lang="it">Campionato Argentino Boca Jrs.-San Lorenzo</title>
-  </programme>
-  <programme start="20240819053000 +0200" stop="20240819060000 +0200" channel="SportItalia">
-    <title lang="it">Si Live 24</title>
-  </programme>
-  <programme start="20240819060000 +0200" stop="20240819063000 +0200" channel="SportItalia">
-    <title lang="it">Si Live 24</title>
-  </programme>
-  <programme start="20240819063000 +0200" stop="20240819070000 +0200" channel="SportItalia">
-    <title lang="it">Si Live 24</title>
-  </programme>
-  <programme start="20240819070000 +0200" stop="20240819080000 +0200" channel="SportItalia">
-    <title lang="it">Calcio Mercato Live Weekend</title>
-  </programme>
-  <programme start="20240819080000 +0200" stop="20240819083000 +0200" channel="SportItalia">
-    <title lang="it">Otto In Punto (diretta)</title>
-  </programme>
-  <programme start="20240819083000 +0200" stop="20240819090000 +0200" channel="SportItalia">
-    <title lang="it">Otto In Punto</title>
-  </programme>
-  <programme start="20240819090000 +0200" stop="20240819100000 +0200" channel="SportItalia">
-    <title lang="it">Aspettando la Serie A (diretta)</title>
-  </programme>
-  <programme start="20240819100000 +0200" stop="20240819110000 +0200" channel="SportItalia">
-    <title lang="it">Aspettando la Seie A</title>
-  </programme>
-  <programme start="20240819110000 +0200" stop="20240819113000 +0200" channel="SportItalia">
-    <title lang="it">Si Live 24</title>
-  </programme>
-  <programme start="20240819113000 +0200" stop="20240819130000 +0200" channel="SportItalia">
-    <title lang="it">Manchester City-Manchester Utd</title>
-  </programme>
-  <programme start="20240819130000 +0200" stop="20240819140000 +0200" channel="SportItalia">
-    <title lang="it">Si Live 24 (diretta)</title>
-  </programme>
-  <programme start="20240819140000 +0200" stop="20240819143000 +0200" channel="SportItalia">
-    <title lang="it">Blab Live (diretta)</title>
-  </programme>
-  <programme start="20240819143000 +0200" stop="20240819150000 +0200" channel="SportItalia">
-    <title lang="it">Si Live 24 (diretta)</title>
-  </programme>
-  <programme start="20240819150000 +0200" stop="20240819160000 +0200" channel="SportItalia">
-    <title lang="it">Si Cafe' (diretta)</title>
-  </programme>
-  <programme start="20240819160000 +0200" stop="20240819163000 +0200" channel="SportItalia">
-    <title lang="it">Si Live 24 (diretta)</title>
-  </programme>
-  <programme start="20240819163000 +0200" stop="20240819170000 +0200" channel="SportItalia">
-    <title lang="it">Si Live 24</title>
-  </programme>
-  <programme start="20240819170000 +0200" stop="20240819193000 +0200" channel="SportItalia">
-    <title lang="it">Calciomercato Live (diretta)</title>
-  </programme>
-  <programme start="20240819193000 +0200" stop="20240819200000 +0200" channel="SportItalia">
-    <title lang="it">Si Live 24 (diretta)</title>
-  </programme>
-  <programme start="20240819200000 +0200" stop="20240819230000 +0200" channel="SportItalia">
-    <title lang="it">Aspettando Calciomercato (diretta)</title>
-  </programme>
-  <programme start="20240819230000 +0200" stop="20240820000000 +0200" channel="SportItalia">
+  <programme start="20240831000000 +0200" stop="20240831010000 +0200" channel="SportItalia">
     <title lang="it">Sportitaliamercato (diretta)</title>
+  </programme>
+  <programme start="20240831010000 +0200" stop="20240831013000 +0200" channel="SportItalia">
+    <title lang="it">Si Live 24 (diretta)</title>
+  </programme>
+  <programme start="20240831013000 +0200" stop="20240831023000 +0200" channel="SportItalia">
+    <title lang="it">Calciomercato Live Giornata Finale</title>
+  </programme>
+  <programme start="20240831023000 +0200" stop="20240831030000 +0200" channel="SportItalia">
+    <title lang="it">Si Live 24</title>
+  </programme>
+  <programme start="20240831030000 +0200" stop="20240831033000 +0200" channel="SportItalia">
+    <title lang="it">Si Live 24</title>
+  </programme>
+  <programme start="20240831033000 +0200" stop="20240831040000 +0200" channel="SportItalia">
+    <title lang="it">Si Live 24</title>
+  </programme>
+  <programme start="20240831040000 +0200" stop="20240831043000 +0200" channel="SportItalia">
+    <title lang="it">Si Live 24</title>
+  </programme>
+  <programme start="20240831043000 +0200" stop="20240831050000 +0200" channel="SportItalia">
+    <title lang="it">Si Live 24</title>
+  </programme>
+  <programme start="20240831050000 +0200" stop="20240831053000 +0200" channel="SportItalia">
+    <title lang="it">Si Live 24</title>
+  </programme>
+  <programme start="20240831053000 +0200" stop="20240831060000 +0200" channel="SportItalia">
+    <title lang="it">Si Live 24</title>
+  </programme>
+  <programme start="20240831060000 +0200" stop="20240831063000 +0200" channel="SportItalia">
+    <title lang="it">Si Live 24</title>
+  </programme>
+  <programme start="20240831063000 +0200" stop="20240831070000 +0200" channel="SportItalia">
+    <title lang="it">Si Live 24</title>
+  </programme>
+  <programme start="20240831070000 +0200" stop="20240831080000 +0200" channel="SportItalia">
+    <title lang="it">Calciomercato Live Giornata Finale</title>
+  </programme>
+  <programme start="20240831080000 +0200" stop="20240831083000 +0200" channel="SportItalia">
+    <title lang="it">Otto In Punto (diretta)</title>
+  </programme>
+  <programme start="20240831083000 +0200" stop="20240831090000 +0200" channel="SportItalia">
+    <title lang="it">Otto In Punto</title>
+  </programme>
+  <programme start="20240831090000 +0200" stop="20240831100000 +0200" channel="SportItalia">
+    <title lang="it">Calciomercato Live Giornata Finale</title>
+  </programme>
+  <programme start="20240831100000 +0200" stop="20240831110000 +0200" channel="SportItalia">
+    <title lang="it">Sportitaliamercato (diretta)</title>
+  </programme>
+  <programme start="20240831110000 +0200" stop="20240831130000 +0200" channel="SportItalia">
+    <title lang="it">Campionato Primavera Genoa-Milan (diretta)</title>
+  </programme>
+  <programme start="20240831130000 +0200" stop="20240831140000 +0200" channel="SportItalia">
+    <title lang="it">Si Live 24 (diretta)</title>
+  </programme>
+  <programme start="20240831140000 +0200" stop="20240831143000 +0200" channel="SportItalia">
+    <title lang="it">Pre partita Campionato Primavera</title>
+  </programme>
+  <programme start="20240831143000 +0200" stop="20240831163000 +0200" channel="SportItalia">
+    <title lang="it">Campionato Primavera Inter-Cremonese (diretta)</title>
+  </programme>
+  <programme start="20240831163000 +0200" stop="20240831183000 +0200" channel="SportItalia">
+    <title lang="it">Campionato Primavera Roma-Bologna (diretta)</title>
+  </programme>
+  <programme start="20240831183000 +0200" stop="20240831203000 +0200" channel="SportItalia">
+    <title lang="it">Serie A Live (diretta)</title>
+  </programme>
+  <programme start="20240831203000 +0200" stop="20240831230000 +0200" channel="SportItalia">
+    <title lang="it">Serie A Live (diretta)</title>
   </programme>
 </tv>
